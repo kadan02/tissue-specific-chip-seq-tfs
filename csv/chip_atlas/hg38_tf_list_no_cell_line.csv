@@ -1,0 +1,196 @@
+Organ,Tissue,Transcription Factors,Total Unique TFs
+adipocyte,Adipocytes,"E2F4, CEBPA, HSF1, ZNF189, PPARG, O-GlcNAc, CEBPB, CTCF, TEAD1, MED1, NR3C1",11
+adipocyte,Adipose-derived stem cells,HNRNPA2B1,1
+adipocyte,Adipose-Derived_Mesenchymal_Stem_Cells,"CREBBP, PPARG, KLF11, MED1, GPS2",5
+adipocyte,Adipose_stem_cells,"LMNB1, CTCF, LMNA",3
+adipocyte,Adipose_stromal_cell,"CTCF, PPARG, EBF1",3
+adipocyte,Adipose_Tissue,PPARG,1
+adipocyte,"Colon, Transverse","CTCF, EP300",2
+adipocyte,Omental fat pad,"CTCF, EP300",2
+adipocyte,Preadipocytes,"LMNA, ARNTL",2
+adipocyte,Subcutaneous adipose tissue,"EP300, CTCF",2
+adipocyte,White adipose tissue,PPARG,1
+adipocyte,NA,"ARNTL, CEBPA, CEBPB, CREBBP, CTCF, E2F4, EBF1, EP300, GPS2, HNRNPA2B1, HSF1, KLF11, LMNA, LMNB1, MED1, NR3C1, O-GlcNAc, PPARG, TEAD1, ZNF189",20
+blood,B-cell_BRACKETLCD19PULUSBRACKETR,EBF1,1
+blood,Bone_Marrow_Cells,"KMT2A, AFF1",2
+blood,Bone_marrow_mononuclear_cells,KMT2A,1
+blood,Bone_marrow_nuclear_cells,"SMARCC1, CHD4, KDM6A",3
+blood,B_cells,"CTCF, FOXO1, BCL6, RAD21, POU2F2, POU2AF1, BCOR, NCOR2, EBNA1, EBF1, RBPJ, MAU2, SMARCA4, GFP, KMT2D, DAXX, CD74, CREBBP, BACH2, ZNF341, MEF2B, Epitope tags, FOXP1, STAT3, SPI1, IRF4",26
+blood,CD20PULUS,"EZH2, CTCF",2
+blood,CD20PULUS_B_cells,AICDA,1
+blood,CD34PULUS,"GATA1, GATA2, RUNX1, FLI1, TAL1, CTCF, SMARCA4, SMAD1, KLF1, ATRX, IRF2, CHD7, ERG, LYL1, LMO2, GFI1B, KMT2A, MLLT3, EGR1, RUNX1T1, JUND, ZNF410",22
+blood,CD34PULUS_cells,"HIC2, MLLT3",2
+blood,CD34_Hematopoietic_stem_cells,"ERG, GABPA, TAL1, SMAD1, TCF7L2, GATA2, EGR1, MED12, Epitope tags, MYCN, CTCF, MLLT3, TRIM28, NETO2, NOTCH1",15
+blood,CD36PULUS,"CTCF, TAL1, GATA1, SMARCA4, EP300",5
+blood,CD4PULUS,SMARCA4,1
+blood,CD4PULUS_T_cells,"EZH2, TP73, SMAD3, CTCF, CREBBP, EP300, KAT2B, KAT8, KAT5, HDAC1, HDAC2, HDAC3, HDAC6, HMGN1, YY1, REL, ATF4, CEBPB, BRD4, BATF, FOSL1, FOSL2, NFKB1, GATA3, TRIM28, STAT5A, ETS1, RUNX1, FOXP3, INO80, SRCAP, IRF4, NFATC1, NFATC2, REST, FOS, JUNB, MYC, KDM6B, RELA, BCL6, PSIP1, BRD2, BRD3, PRKCQ",45
+blood,CD8PULUS_T_cells,"CTCF, EP300, STAT5B",3
+blood,Cord_blood_mononuclear,KMT2A,1
+blood,Dendritic_Cells,"NR3C1, MAFB, NR4A1, NR4A2, NR4A3, ZNF366, SPI1, GFP, Epitope tags, VDR, SREBF1",11
+blood,Erythroblasts,"ATRX, TAL1, NFE2, GATA2, GATA1, HIC2, CBX4, CTCF, NCOA4, MLLT3, LDB1, CXXC1, HCFC1, MEN1, RBBP5, SETD1A, KDM6A, NR2C2, EED, SUZ12, EZH1, EZH2, ATF4, TP53",24
+blood,Erythroid_Cells,"BPTF, SETD1A, USF1, USF2, CTCF, STAG1, TAL1, GATA1, KLF1, NFE2, EP300, RAD21, MAZ",13
+blood,Erythroid_Precursor_Cells,"GATA1, TAL1, GATA2",3
+blood,Erythroid_progenitors,"NFE2L2, GATA2, GATA1, HDAC1, HDAC2",5
+blood,Hematopoietic_cells,ERG,1
+blood,Hematopoietic_Stem_Cells,"TAL1, SPI1, IKZF1, MEIS1, GATA1, NFE2, IRF2, RUNX1, Epitope tags, AHR, SMARCA4, EP300, CTCF, STAG1, SMAD2",15
+blood,Lymphoblastoid_cells,"SMC1A, NIPBL, TP53",3
+blood,Lymphoblastoid_cell_line,"VDR, RAD21, NR3C1, ATRX, RUNX3, NFE2L2, Epitope tags, RELA, DNMT3B, YY1, BRD4, CTCF, STAG1, CXXC1, BMI1, BMI, TERF1, TERF2, FMR1, WAS, E2F6, E2F1, RB1, HDAC1, HDAC2",25
+blood,Lymphoblasts,"CTCF, RAD21",2
+blood,Lymph_Nodes,"AR, CTCF, FOXA1",3
+blood,Macrophages,"SPI1, CEBPB, EGR2, YY1, Epitope tags, ATF2, CTCF, HIF1A, EPAS1, SP140, MYC, MAF, SMC1A, NR3C1, INTS13, NAB2, RAD21, LDB1, GFP, SREBF2, CREBBP, CHD4, EGR1",23
+blood,Mast_Cells,SPI1,1
+blood,Memory_B_cells,"CTCF, IRF4",2
+blood,Memory_T_cells,STAT5A,1
+blood,Monocytes,"SPI1, CEBPB, RAD21, ZBTB3, CTCF, ETV3, ETV6, S100A9, INTS13, NR3C1, NAB2, ASUN, EGR1, VDR",14
+blood,Monocytes-CD14PULUS,"STAT5A, CTCF, STAT1, IRF1, POU2F2",5
+blood,Naive_B_cells,"REL, POU2F2",2
+blood,Natural_killer_cells,CTCF,1
+blood,Natural_Killer_T-Cells,"RUNX2, PBX1",2
+blood,Neutrophils,"YAP1, CTCF, SMC3, RAD21, SPI1, CEBPB, POU2F2",7
+blood,Nuclear_cells,"CHD4, KDM6A",2
+blood,Peripheral_blood_mononuclear_cells,"SMARCC1, EZH2, HIF1A",3
+blood,Peripheral_blood_stem_cells,RUNX1,1
+blood,Peyers_Patches,CTCF,1
+blood,Plasmablasts,XBP1,1
+blood,Plasma_Cells,"BRD4, MYC, CDK9, MAX, MED1",5
+blood,Pre-B_lymphoblast_cells,RUNX1,1
+blood,Th17_Cells,STAT3,1
+blood,Th1_Cells,"TBX21, GATA3, RELA, AFF4, BRD4, MED1",6
+blood,Th2_Cells,"GATA3, STAT3",2
+blood,Thymus,"RAG1, RAG2, BCL11B",3
+blood,Tonsil_germinal_center_cells,POU2AF1,1
+blood,T_cells,"CTCF, STAT1, STAT4, STAT5A, STAT5B, MED1, MED12, BRD4, BATF, TFAP4, TP53, ZNF341",12
+blood,NA,"AFF1, AFF4, AHR, AICDA, AR, ASUN, ATF2, ATF4, ATRX, BACH2, BATF, BCL11B, BCL6, BCOR, BMI, BMI1, BPTF, BRD2, BRD3, BRD4, CBX4, CD74, CDK9, CEBPB, CHD4, CHD7, CREBBP, CTCF, CXXC1, DAXX, DNMT3B, E2F1, E2F6, EBF1, EBNA1, EED, EGR1, EGR2, EP300, EPAS1, ERG, ETS1, ETV3, ETV6, EZH1, EZH2, Epitope tags, FLI1, FMR1, FOS, FOSL1, FOSL2, FOXA1, FOXO1, FOXP1, FOXP3, GABPA, GATA1, GATA2, GATA3, GFI1B, GFP, HCFC1, HDAC1, HDAC2, HDAC3, HDAC6, HIC2, HIF1A, HMGN1, IKZF1, INO80, INTS13, IRF1, IRF2, IRF4, JUNB, JUND, KAT2B, KAT5, KAT8, KDM6A, KDM6B, KLF1, KMT2A, KMT2D, LDB1, LMO2, LYL1, MAF, MAFB, MAU2, MAX, MAZ, MED1, MED12, MEF2B, MEIS1, MEN1, MLLT3, MYC, MYCN, NAB2, NCOA4, NCOR2, NETO2, NFATC1, NFATC2, NFE2, NFE2L2, NFKB1, NIPBL, NOTCH1, NR2C2, NR3C1, NR4A1, NR4A2, NR4A3, PBX1, POU2AF1, POU2F2, PRKCQ, PSIP1, RAD21, RAG1, RAG2, RB1, RBBP5, RBPJ, REL, RELA, REST, RUNX1, RUNX1T1, RUNX2, RUNX3, S100A9, SETD1A, SMAD1, SMAD2, SMAD3, SMARCA4, SMARCC1, SMC1A, SMC3, SP140, SPI1, SRCAP, SREBF1, SREBF2, STAG1, STAT1, STAT3, STAT4, STAT5A, STAT5B, SUZ12, TAL1, TBX21, TCF7L2, TERF1, TERF2, TFAP4, TP53, TP73, TRIM28, USF1, USF2, VDR, WAS, XBP1, YAP1, YY1, ZBTB3, ZNF341, ZNF366, ZNF410",177
+bone,Chondrocytes,"CTCF, PBXIP1, FOXO1",3
+bone,Osteobl,"CTCF, EP300",2
+bone,Osteoblasts,"BRD4, CEBPB, FOSL2, JUND, TEAD1, STAT3, TP53, CHD1, RB1, E2F3",10
+bone,Osteocytes,CTCF,1
+bone,NA,"BRD4, CEBPB, CHD1, CTCF, E2F3, EP300, FOSL2, FOXO1, JUND, PBXIP1, RB1, STAT3, TEAD1, TP53",14
+breast,Breast_cells,"BCL11A, NELFA, CBX6, CBX7, CBX8, RING1, RNF2",7
+breast,Breast_epithelium,"RBM39, KMT2A, EP300, CTCF",4
+breast,Breast_luminal_cells,CTCF,1
+breast,Mammary_epithelial_cells,"BCL11A, CHD8, ARID1A, BRD4, CTCF, TP53, MYC, RBM39, KMT2A",9
+breast,Mammary_glands,"TP63, TP53",2
+breast,NA,"ARID1A, BCL11A, BRD4, CBX6, CBX7, CBX8, CHD8, CTCF, EP300, KMT2A, MYC, NELFA, RBM39, RING1, RNF2, TP53, TP63",17
+digestive tract,colon,CTCF,1
+digestive tract,"colon, sigmoid","CTCF, EP300",2
+digestive tract,colonic mucosa,CTCF,1
+digestive tract,esophagus muscularis mucosa,"EP300, CTCF",2
+digestive tract,esophagus squamous epithelium,CTCF,1
+digestive tract,gastroesophageal sphincter,"EP300, CTCF",2
+digestive tract,stomach,"CTCF, EP300",2
+digestive tract,NA,"CTCF, EP300",2
+gonad,Caput_epididymis,HNF1A,1
+gonad,Epididymis,"AR, RUNX1, CEBPB",3
+gonad,Ovary,"CTCF, EP300",2
+gonad,Primordial_germ_cells,GFP,1
+gonad,Testis,"POU5F1, PAX5, PRDM1, EP300, CTCF, DMC1",6
+gonad,NA,"AR, CEBPB, CTCF, DMC1, EP300, GFP, HNF1A, PAX5, POU5F1, PRDM1, RUNX1",11
+heart,Aorta,CTCF,1
+heart,"Aortha, thoracic",CTCF,1
+heart,Aortic_smooth_muscle_cells,"SMARCA4, SMAD2, TFEB",3
+heart,Aortic_valve_endothelial_cells,NOTCH1,1
+heart,Cardiac_fibroblasts,IRX2,1
+heart,Cardiac_progenitor_cells,EP300,1
+heart,Cardiomyocytes,"KDM1A, CHD6",2
+heart,Coronary_artery_cells,CTCF,1
+heart,Coronary_artery_endothelial_cells,"STAG1, STAG2, SMC1A, YAP1",4
+heart,Coronary_artery_smooth_muscle,TCF21,1
+heart,Endothelial_Cells,"CTCF, EP300",2
+heart,Heart,EP300,1
+heart,Large_pulmonary_artery_endothelial_cells,"NOTCH1, EP300",2
+heart,Left_ventricle,CTCF,1
+heart,"Myocytes, Cardiac","LMNA, CTCF",2
+heart,Primary_endothelial_cells,TAL1,1
+heart,Pulmonary_artery_endothelial_cells,"SMARCA4, KLF4",2
+heart,Right_atrium_auricular_region,CTCF,1
+heart,Right_ventricle,CTCF,1
+heart,Smooth_muscle_cells,"SMARCA4, HDAC9",2
+heart,Tibial_Arteries,CTCF,1
+heart,Vascular_smooth_muscle_cells,TP53,1
+heart,Wharton_Jelly,E2F1,1
+heart,NA,"CHD6, CTCF, E2F1, EP300, HDAC9, IRX2, KDM1A, KLF4, LMNA, NOTCH1, SMAD2, SMARCA4, SMC1A, STAG1, STAG2, TAL1, TCF21, TFEB, TP53, YAP1",20
+kidney,Kidney,CTCF,1
+kidney,Kidney_Cortex,"SIX2, SIX1, EP300, VDR, CREB1",5
+kidney,Nephrons,CTCF,1
+kidney,Podocytes,NR3C1,1
+kidney,Renal_tubular_cells,"HIF1A, ARNT",2
+kidney,rRenal_tubular_epithelial_cells,EP300,1
+kidney,NA,"ARNT, CREB1, CTCF, EP300, HIF1A, NR3C1, SIX1, SIX2, VDR",9
+liver,Hepatocytes,"EZH2, AHR, CTCF, NR1H4, ESR1",5
+liver,Liver,"FOXA2, MBD2, LMNB1, CTCF, GABPA, NR2F2, JUND, RAD21, ATF3, TAF1, ZBTB33, FOXA1, YY1, MAX, HNF4A, HNF4G, REST, SP1, RXRA, EGR1, MED1, AR, ESR1",23
+liver,NA,"AHR, AR, ATF3, CTCF, EGR1, ESR1, EZH2, FOXA1, FOXA2, GABPA, HNF4A, HNF4G, JUND, LMNB1, MAX, MBD2, MED1, NR1H4, NR2F2, RAD21, REST, RXRA, SP1, TAF1, YY1, ZBTB33",26
+lung,Bronchial_epithelial_cells,"DEC1, INTS12, YAP1, TP63, FOXA1, FOXA2, TEAD1, KLF5, CEBPB",9
+lung,Bronchial_tracheal_epithelial_cells,"CDK9, NELFCD, MLLT3, MLLT1, BRD4, IRF3, TBP",7
+lung,Lung,"CTCF, EP300, MED1, AR, FOXA1",5
+lung,Lung_fibroblasts,"RELA, EP300, CTCF, HMGB2, HMGB1",5
+lung,Tracheal_epithelial_cells,GRHL2,1
+lung,NA,"AR, BRD4, CDK9, CEBPB, CTCF, DEC1, EP300, FOXA1, FOXA2, GRHL2, HMGB1, HMGB2, INTS12, IRF3, KLF5, MED1, MLLT1, MLLT3, NELFCD, RELA, TBP, TEAD1, TP63, YAP1",24
+muscle,Gastrocnemius_medialis,CTCF,1
+muscle,Gastrocnemius_muscle,Epitope tags,1
+muscle,MuscleKOMMA_Smooth,"CTCF, TERF1, TERF2",3
+muscle,Myoblasts,"DUX4, Epitope tags, MYOD1, HDGF2, PSIP1, SUPT16H, MED1, FOXO1",8
+muscle,Myofibroblasts,AR,1
+muscle,Myotube,"TRF2, MYOD1, HDGF2, PSIP1, SUPT16H",5
+muscle,Psoas_Muscles,CTCF,1
+muscle,Skeletal_muscle,"UBE2A, CBFB, YAP1, VDR",4
+muscle,Skeletal_myotubes,MLXIP,1
+muscle,NA,"AR, CBFB, CTCF, DUX4, Epitope tags, FOXO1, HDGF2, MED1, MLXIP, MYOD1, PSIP1, SUPT16H, TERF1, TERF2, TRF2, UBE2A, VDR, YAP1",18
+neurons,Anterior_temporal_cortex,CTCF,1
+neurons,Astrocytes,"CTCF, CIC, EZH2",3
+neurons,Bipolar_spindle_neurons,"CTCF, SMARCA4, EZH2, POU5F1, ZEB1",5
+neurons,Brain,"CTCF, CHD8",2
+neurons,Cerebellum,CHD7,1
+neurons,Dorsal_lateral_prefrontal_cortex,"ZEB1, MEF2C",2
+neurons,Excitatory_neuron,CTCF,1
+neurons,Frontal_cortex,"CTCF, CREB1, CRTC1",3
+neurons,Hippocampus,REST,1
+neurons,Medullo,CTCF,1
+neurons,Microglia,CTCF,1
+neurons,Microglia_cell_line,BRD4,1
+neurons,Neural_crest_cells,"ARID1B, NANOG, SOX2, ARID1A",4
+neurons,Neural_progenitor_cells,"POU3F2, CTCF, SOX2, INTS10, CPSF3L, INTS13, ZMYND8, SMARCA2, FOSL2, SMARCA4, SOX3, Epitope tags, GFP",13
+neurons,Neural_Stem_Cells,"CHD8, ARNTL, EZH2, Epitope tags, SUZ12, BMI1",6
+neurons,Neuroblastoma,"MYCN, TWIST1, CTCF, BRD4, MEIS1, RARA",6
+neurons,Neurons,"CTCF, GATA3",2
+neurons,Prefrontal_Cortex,"ATF4, OLIG2, THRA",3
+neurons,Retina,"VSX2, BRD4, CTCF, GFP",4
+neurons,Tibial_Nerve,"CTCF, EP300",2
+neurons,NA,"ARID1A, ARID1B, ARNTL, ATF4, BMI1, BRD4, CHD7, CHD8, CIC, CPSF3L, CREB1, CRTC1, CTCF, EP300, EZH2, Epitope tags, FOSL2, GATA3, GFP, INTS10, INTS13, MEF2C, MEIS1, MYCN, NANOG, OLIG2, POU3F2, POU5F1, RARA, REST, SMARCA2, SMARCA4, SOX2, SOX3, SUZ12, THRA, TWIST1, VSX2, ZEB1, ZMYND8",40
+pancreas,Body_of_pancreas,CTCF,1
+pancreas,Pancreas,CTCF,1
+pancreas,Pancreatic_islets,"GFP, CTCF, HNF4A, HNF1A, GLIS3",5
+pancreas,NA,"CTCF, GFP, GLIS3, HNF1A, HNF4A",5
+placenta,Cytotrophoblast,"CREBBP, HDAC1, RELB",3
+placenta,Placenta,CTCF,1
+placenta,Trophoblasts,"Epitope tags, EP300",2
+placenta,Trophoblast_stem_cells,"MSX2, EP300, FOS, GATA2, MAFK, TEAD4, TFAP2C, DLX6, ASCL2, DLX5, NRIP1",11
+placenta,NA,"ASCL2, CREBBP, CTCF, DLX5, DLX6, EP300, Epitope tags, FOS, GATA2, HDAC1, MAFK, MSX2, NRIP1, RELB, TEAD4, TFAP2C",16
+prostate,Fetal_prostate_fibroblasts,AR,1
+prostate,Prostate,"AR, ARRB1, MED1, HOXB13, FOXA1",5
+prostate,Prostate_epithelial_cells,CTCF,1
+prostate,Prostate_gland,"EP300, CTCF",2
+prostate,NA,"AR, ARRB1, CTCF, EP300, FOXA1, HOXB13, MED1",7
+skin,Dermal_fibroblast,"EN1, SP1, EZH2, SPI1, IRF8, BATF3, TP53, ATF3, LMNA, Epitope tags, GLI1, LMNB1, ASCL1, AR, YAP1, ELK1, ETV2, POU5F1, RBPJ, BRD4, SMC1A, NIPBL, MYC",23
+skin,Differentiated_keratinocytes,TP63,1
+skin,Epidermal_cells,Epitope tags,1
+skin,Epidermal_stem_cells,"DNMT3A, DNMT3B",2
+skin,Forearm_skin,LMNA,1
+skin,Foreskin,"Epitope tags, CTCF, TBP, HHV UL87, GFP, VDR, TP63, MED1, EZH2, BRD2, BRD4, TP53",12
+skin,Keratinocytes,"TP63, NFKBIA, YAP1, TEAD1, SMAD3, AFF1, HEXIM1, BRD4, Epitope tags, NUP98, HDAC1, AHR, CTCF, SMC1A, EHF, MTA2, RBPJ, ASCL1, PRMT1, KMT2D, MAF, MAFB, SNAI2, HNRNPK, TP53, ZNF750, KLF4, RCOR1, KDM1A, KLF3, CREBBP, JUNB, SUPT6H, MED1, DNMT3A, DNMT3B, SMARCA4, EP300",38
+skin,Leg_skin,CTCF,1
+skin,Melanocytes,"INO80, MITF, RNF2",3
+skin,Skin_fibroblasts,HNF1A,1
+skin,Suprapubic_skin,"CTCF, EP300",2
+skin,NA,"AFF1, AHR, AR, ASCL1, ATF3, BATF3, BRD2, BRD4, CREBBP, CTCF, DNMT3A, DNMT3B, EHF, ELK1, EN1, EP300, ETV2, EZH2, Epitope tags, GFP, GLI1, HDAC1, HEXIM1, HHV UL87, HNF1A, HNRNPK, INO80, IRF8, JUNB, KDM1A, KLF3, KLF4, KMT2D, LMNA, LMNB1, MAF, MAFB, MED1, MITF, MTA2, MYC, NFKBIA, NIPBL, NUP98, POU5F1, PRMT1, RBPJ, RCOR1, RNF2, SMAD3, SMARCA4, SMC1A, SNAI2, SP1, SPI1, SUPT6H, TBP, TEAD1, TP53, TP63, VDR, YAP1, ZNF750",63
+uterus,Decidualized_stromal_cells,Epitope tags,1
+uterus,Endometrial_epithelial_cells,"SMARCA4, ARID1A",2
+uterus,Endometrial_stromal_cells,"PGR, FOSL2, FOXO1, ZBTB16, GATA2, NR2F2, AR, NCOA2, EGR1, Epitope tags, ESR1",11
+uterus,Endometrium,"ESR1, FOXA2, PGR",3
+uterus,Fallopian_Tubes,"CTCF, CTCFL",2
+uterus,Myometrium,"FOS, JUN, CDK8, MED12, PGR",5
+uterus,Ovarian_granulosa_cells,Epitope tags,1
+uterus,Uterine_epithelial_cells,"ESR1, PGR",2
+uterus,Uterus,CTCF,1
+uterus,Vagina,"CTCF, EP300",2
+uterus,NA,"AR, ARID1A, CDK8, CTCF, CTCFL, EGR1, EP300, ESR1, Epitope tags, FOS, FOSL2, FOXA2, FOXO1, GATA2, JUN, MED12, NCOA2, NR2F2, PGR, SMARCA4, ZBTB16",21

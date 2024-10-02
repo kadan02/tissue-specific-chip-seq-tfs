@@ -1,0 +1,415 @@
+NEW ORGAN: adipocyte
+Adipocytes
+E2F4, CEBPA, HSF1, ZNF189, PPARG, O-GlcNAc, CEBPB, CTCF, TEAD1, MED1, NR3C1
+Adipose-derived stem cells
+HNRNPA2B1
+Adipose-Derived_Mesenchymal_Stem_Cells
+CREBBP, PPARG, KLF11, MED1, GPS2
+Adipose_stem_cells
+LMNB1, CTCF, LMNA
+Adipose_stromal_cell
+CTCF, PPARG, EBF1
+Adipose_Tissue
+PPARG
+Colon, Transverse
+CTCF, EP300
+Omental fat pad
+CTCF, EP300
+Preadipocytes
+LMNA, ARNTL
+Subcutaneous adipose tissue
+EP300, CTCF
+White adipose tissue
+PPARG
+Total unique TFs in adipocyte: 20
+
+NEW ORGAN: blood
+B-cell_BRACKETLCD19PULUSBRACKETR
+EBF1
+Bone_Marrow_Cells
+KMT2A, AFF1
+Bone_marrow_mononuclear_cells
+KMT2A
+Bone_marrow_nuclear_cells
+SMARCC1, CHD4, KDM6A
+B_cells
+CTCF, FOXO1, BCL6, RAD21, POU2F2, POU2AF1, BCOR, NCOR2, EBNA1, EBF1, RBPJ, MAU2, SMARCA4, GFP, KMT2D, DAXX, CD74, CREBBP, BACH2, ZNF341, MEF2B, Epitope tags, FOXP1, STAT3, SPI1, IRF4
+CD20PULUS
+EZH2, CTCF
+CD20PULUS_B_cells
+AICDA
+CD34PULUS
+GATA1, GATA2, RUNX1, FLI1, TAL1, CTCF, SMARCA4, SMAD1, KLF1, ATRX, IRF2, CHD7, ERG, LYL1, LMO2, GFI1B, KMT2A, MLLT3, EGR1, RUNX1T1, JUND, ZNF410
+CD34PULUS_cells
+HIC2, MLLT3
+CD34_Hematopoietic_stem_cells
+ERG, GABPA, TAL1, SMAD1, TCF7L2, GATA2, EGR1, MED12, Epitope tags, MYCN, CTCF, MLLT3, TRIM28, NETO2, NOTCH1
+CD36PULUS
+CTCF, TAL1, GATA1, SMARCA4, EP300
+CD4PULUS
+SMARCA4
+CD4PULUS_T_cells
+EZH2, TP73, SMAD3, CTCF, CREBBP, EP300, KAT2B, KAT8, KAT5, HDAC1, HDAC2, HDAC3, HDAC6, HMGN1, YY1, REL, ATF4, CEBPB, BRD4, BATF, FOSL1, FOSL2, NFKB1, GATA3, TRIM28, STAT5A, ETS1, RUNX1, FOXP3, INO80, SRCAP, IRF4, NFATC1, NFATC2, REST, FOS, JUNB, MYC, KDM6B, RELA, BCL6, PSIP1, BRD2, BRD3, PRKCQ
+CD8PULUS_T_cells
+CTCF, EP300, STAT5B
+Cord_blood_mononuclear
+KMT2A
+Dendritic_Cells
+NR3C1, MAFB, NR4A1, NR4A2, NR4A3, ZNF366, SPI1, GFP, Epitope tags, VDR, SREBF1
+Erythroblasts
+ATRX, TAL1, NFE2, GATA2, GATA1, HIC2, CBX4, CTCF, NCOA4, MLLT3, LDB1, CXXC1, HCFC1, MEN1, RBBP5, SETD1A, KDM6A, NR2C2, EED, SUZ12, EZH1, EZH2, ATF4, TP53
+Erythroid_Cells
+BPTF, SETD1A, USF1, USF2, CTCF, STAG1, TAL1, GATA1, KLF1, NFE2, EP300, RAD21, MAZ
+Erythroid_Precursor_Cells
+GATA1, TAL1, GATA2
+Erythroid_progenitors
+NFE2L2, GATA2, GATA1, HDAC1, HDAC2
+Hematopoietic_cells
+ERG
+Hematopoietic_Stem_Cells
+TAL1, SPI1, IKZF1, MEIS1, GATA1, NFE2, IRF2, RUNX1, Epitope tags, AHR, SMARCA4, EP300, CTCF, STAG1, SMAD2
+Lymphoblastoid_cells
+SMC1A, NIPBL, TP53
+Lymphoblastoid_cell_line
+VDR, RAD21, NR3C1, ATRX, RUNX3, NFE2L2, Epitope tags, RELA, DNMT3B, YY1, BRD4, CTCF, STAG1, CXXC1, BMI1, BMI, TERF1, TERF2, FMR1, WAS, E2F6, E2F1, RB1, HDAC1, HDAC2
+Lymphoblasts
+CTCF, RAD21
+Lymph_Nodes
+AR, CTCF, FOXA1
+Macrophages
+SPI1, CEBPB, EGR2, YY1, Epitope tags, ATF2, CTCF, HIF1A, EPAS1, SP140, MYC, MAF, SMC1A, NR3C1, INTS13, NAB2, RAD21, LDB1, GFP, SREBF2, CREBBP, CHD4, EGR1
+Mast_Cells
+SPI1
+Memory_B_cells
+CTCF, IRF4
+Memory_T_cells
+STAT5A
+Monocytes
+SPI1, CEBPB, RAD21, ZBTB3, CTCF, ETV3, ETV6, S100A9, INTS13, NR3C1, NAB2, ASUN, EGR1, VDR
+Monocytes-CD14PULUS
+STAT5A, CTCF, STAT1, IRF1, POU2F2
+Naive_B_cells
+REL, POU2F2
+Natural_killer_cells
+CTCF
+Natural_Killer_T-Cells
+RUNX2, PBX1
+Neutrophils
+YAP1, CTCF, SMC3, RAD21, SPI1, CEBPB, POU2F2
+Nuclear_cells
+CHD4, KDM6A
+Peripheral_blood_mononuclear_cells
+SMARCC1, EZH2, HIF1A
+Peripheral_blood_stem_cells
+RUNX1
+Peyers_Patches
+CTCF
+Plasmablasts
+XBP1
+Plasma_Cells
+BRD4, MYC, CDK9, MAX, MED1
+Pre-B_lymphoblast_cells
+RUNX1
+Th17_Cells
+STAT3
+Th1_Cells
+TBX21, GATA3, RELA, AFF4, BRD4, MED1
+Th2_Cells
+GATA3, STAT3
+Thymus
+RAG1, RAG2, BCL11B
+Tonsil_germinal_center_cells
+POU2AF1
+T_cells
+CTCF, STAT1, STAT4, STAT5A, STAT5B, MED1, MED12, BRD4, BATF, TFAP4, TP53, ZNF341
+Total unique TFs in blood: 177
+
+NEW ORGAN: bone
+Chondrocytes
+CTCF, PBXIP1, FOXO1
+Osteobl
+CTCF, EP300
+Osteoblasts
+BRD4, CEBPB, FOSL2, JUND, TEAD1, STAT3, TP53, CHD1, RB1, E2F3
+Osteocytes
+CTCF
+Total unique TFs in bone: 14
+
+NEW ORGAN: breast
+Breast_cells
+BCL11A, NELFA, CBX6, CBX7, CBX8, RING1, RNF2
+Breast_epithelium
+RBM39, KMT2A, EP300, CTCF
+Breast_luminal_cells
+CTCF
+Mammary_epithelial_cells
+BCL11A, CHD8, ARID1A, BRD4, CTCF, TP53, MYC, RBM39, KMT2A
+Mammary_glands
+TP63, TP53
+Total unique TFs in breast: 17
+
+NEW ORGAN: digestive tract
+colon
+CTCF
+colon, sigmoid
+CTCF, EP300
+colonic mucosa
+CTCF
+esophagus muscularis mucosa
+EP300, CTCF
+esophagus squamous epithelium
+CTCF
+gastroesophageal sphincter
+EP300, CTCF
+stomach
+CTCF, EP300
+Total unique TFs in digestive tract: 2
+
+NEW ORGAN: gonad
+Caput_epididymis
+HNF1A
+Epididymis
+AR, RUNX1, CEBPB
+Ovary
+CTCF, EP300
+Primordial_germ_cells
+GFP
+Testis
+POU5F1, PAX5, PRDM1, EP300, CTCF, DMC1
+Total unique TFs in gonad: 11
+
+NEW ORGAN: heart
+Aorta
+CTCF
+Aortha, thoracic
+CTCF
+Aortic_smooth_muscle_cells
+SMARCA4, SMAD2, TFEB
+Aortic_valve_endothelial_cells
+NOTCH1
+Cardiac_fibroblasts
+IRX2
+Cardiac_progenitor_cells
+EP300
+Cardiomyocytes
+KDM1A, CHD6
+Coronary_artery_cells
+CTCF
+Coronary_artery_endothelial_cells
+STAG1, STAG2, SMC1A, YAP1
+Coronary_artery_smooth_muscle
+TCF21
+Endothelial_Cells
+CTCF, EP300
+Heart
+EP300
+Large_pulmonary_artery_endothelial_cells
+NOTCH1, EP300
+Left_ventricle
+CTCF
+Myocytes, Cardiac
+LMNA, CTCF
+Primary_endothelial_cells
+TAL1
+Pulmonary_artery_endothelial_cells
+SMARCA4, KLF4
+Right_atrium_auricular_region
+CTCF
+Right_ventricle
+CTCF
+Smooth_muscle_cells
+SMARCA4, HDAC9
+Tibial_Arteries
+CTCF
+Vascular_smooth_muscle_cells
+TP53
+Wharton_Jelly
+E2F1
+Total unique TFs in heart: 20
+
+NEW ORGAN: kidney
+Kidney
+CTCF
+Kidney_Cortex
+SIX2, SIX1, EP300, VDR, CREB1
+Nephrons
+CTCF
+Podocytes
+NR3C1
+Renal_tubular_cells
+HIF1A, ARNT
+rRenal_tubular_epithelial_cells
+EP300
+Total unique TFs in kidney: 9
+
+NEW ORGAN: liver
+Hepatocytes
+EZH2, AHR, CTCF, NR1H4, ESR1
+Liver
+FOXA2, MBD2, LMNB1, CTCF, GABPA, NR2F2, JUND, RAD21, ATF3, TAF1, ZBTB33, FOXA1, YY1, MAX, HNF4A, HNF4G, REST, SP1, RXRA, EGR1, MED1, AR, ESR1
+Total unique TFs in liver: 26
+
+NEW ORGAN: lung
+Bronchial_epithelial_cells
+DEC1, INTS12, YAP1, TP63, FOXA1, FOXA2, TEAD1, KLF5, CEBPB
+Bronchial_tracheal_epithelial_cells
+CDK9, NELFCD, MLLT3, MLLT1, BRD4, IRF3, TBP
+Lung
+CTCF, EP300, MED1, AR, FOXA1
+Lung_fibroblasts
+RELA, EP300, CTCF, HMGB2, HMGB1
+Tracheal_epithelial_cells
+GRHL2
+Total unique TFs in lung: 24
+
+NEW ORGAN: muscle
+Gastrocnemius_medialis
+CTCF
+Gastrocnemius_muscle
+Epitope tags
+MuscleKOMMA_Smooth
+CTCF, TERF1, TERF2
+Myoblasts
+DUX4, Epitope tags, MYOD1, HDGF2, PSIP1, SUPT16H, MED1, FOXO1
+Myofibroblasts
+AR
+Myotube
+TRF2, MYOD1, HDGF2, PSIP1, SUPT16H
+Psoas_Muscles
+CTCF
+Skeletal_muscle
+UBE2A, CBFB, YAP1, VDR
+Skeletal_myotubes
+MLXIP
+Total unique TFs in muscle: 18
+
+NEW ORGAN: neurons
+Anterior_temporal_cortex
+CTCF
+Astrocytes
+CTCF, CIC, EZH2
+Bipolar_spindle_neurons
+CTCF, SMARCA4, EZH2, POU5F1, ZEB1
+Brain
+CTCF, CHD8
+Cerebellum
+CHD7
+Dorsal_lateral_prefrontal_cortex
+ZEB1, MEF2C
+Excitatory_neuron
+CTCF
+Fetal_astrocytes
+CTCF, RAD21
+Fetal_brain
+EP300
+Fetal_neural_cells
+EZH2, RAD21, CTCF, EP300, SMC3, MXI1
+Fetal_neural_progenitor_cells
+BMI1, EZH2, CTCF
+Frontal_cortex
+CTCF, CREB1, CRTC1
+Hippocampus
+REST
+Medullo
+CTCF
+Microglia
+CTCF
+Microglia_cell_line
+BRD4
+Neural_crest_cells
+ARID1B, NANOG, SOX2, ARID1A
+Neural_progenitor_cells
+POU3F2, CTCF, SOX2, INTS10, CPSF3L, INTS13, ZMYND8, SMARCA2, FOSL2, SMARCA4, SOX3, Epitope tags, GFP
+Neural_Stem_Cells
+CHD8, ARNTL, EZH2, Epitope tags, SUZ12, BMI1
+Neuroblastoma
+MYCN, TWIST1, CTCF, BRD4, MEIS1, RARA
+Neurons
+CTCF, GATA3
+Prefrontal_Cortex
+ATF4, OLIG2, THRA
+Retina
+VSX2, BRD4, CTCF, GFP
+Tibial_Nerve
+CTCF, EP300
+Total unique TFs in neurons: 43
+
+NEW ORGAN: pancreas
+Body_of_pancreas
+CTCF
+Pancreas
+CTCF
+Pancreatic_islets
+GFP, CTCF, HNF4A, HNF1A, GLIS3
+Total unique TFs in pancreas: 5
+
+NEW ORGAN: placenta
+Cytotrophoblast
+CREBBP, HDAC1, RELB
+Placenta
+CTCF
+Trophoblasts
+Epitope tags, EP300
+Trophoblast_stem_cells
+MSX2, EP300, FOS, GATA2, MAFK, TEAD4, TFAP2C, DLX6, ASCL2, DLX5, NRIP1
+Total unique TFs in placenta: 16
+
+NEW ORGAN: prostate
+Fetal_prostate_fibroblasts
+AR
+Prostate
+AR, ARRB1, MED1, HOXB13, FOXA1
+Prostate_epithelial_cells
+CTCF
+Prostate_gland
+EP300, CTCF
+Total unique TFs in prostate: 7
+
+NEW ORGAN: skin
+Dermal_fibroblast
+EN1, SP1, EZH2, SPI1, IRF8, BATF3, TP53, ATF3, LMNA, Epitope tags, GLI1, LMNB1, ASCL1, AR, YAP1, ELK1, ETV2, POU5F1, RBPJ, BRD4, SMC1A, NIPBL, MYC
+Differentiated_keratinocytes
+TP63
+Epidermal_cells
+Epitope tags
+Epidermal_stem_cells
+DNMT3A, DNMT3B
+Forearm_skin
+LMNA
+Foreskin
+Epitope tags, CTCF, TBP, HHV UL87, GFP, VDR, TP63, MED1, EZH2, BRD2, BRD4, TP53
+Keratinocytes
+TP63, NFKBIA, YAP1, TEAD1, SMAD3, AFF1, HEXIM1, BRD4, Epitope tags, NUP98, HDAC1, AHR, CTCF, SMC1A, EHF, MTA2, RBPJ, ASCL1, PRMT1, KMT2D, MAF, MAFB, SNAI2, HNRNPK, TP53, ZNF750, KLF4, RCOR1, KDM1A, KLF3, CREBBP, JUNB, SUPT6H, MED1, DNMT3A, DNMT3B, SMARCA4, EP300
+Leg_skin
+CTCF
+Melanocytes
+INO80, MITF, RNF2
+Skin_fibroblasts
+HNF1A
+Suprapubic_skin
+CTCF, EP300
+Total unique TFs in skin: 63
+
+NEW ORGAN: uterus
+Decidualized_stromal_cells
+Epitope tags
+Endometrial_epithelial_cells
+SMARCA4, ARID1A
+Endometrial_stromal_cells
+PGR, FOSL2, FOXO1, ZBTB16, GATA2, NR2F2, AR, NCOA2, EGR1, Epitope tags, ESR1
+Endometrium
+ESR1, FOXA2, PGR
+Fallopian_Tubes
+CTCF, CTCFL
+Myometrium
+FOS, JUN, CDK8, MED12, PGR
+Ovarian_granulosa_cells
+Epitope tags
+Uterine_epithelial_cells
+ESR1, PGR
+Uterus
+CTCF
+Vagina
+CTCF, EP300
+Total unique TFs in uterus: 21
+

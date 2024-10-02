@@ -1,0 +1,8020 @@
+SH-SY5Y
+ML-2
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+DLD-1
+DLD-1
+293
+293
+HeLa
+HeLa
+MCF-7
+MCF-7
+293
+293
+HCT 116
+HCT 116
+HCT 116
+HeLa
+HeLa
+293
+293
+293
+293
+293
+293
+293
+DLD-1
+HB1119
+HB1119
+HB1119
+HB1119
+HB1119
+HB1119
+HB1119
+HB1119
+HB1119
+293
+293
+293
+293
+293
+293
+293
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+NCI-H1299
+NCI-H1299
+CAL-1
+U-87 MG
+U-87 MG
+U-87 MG
+U-87 MG
+U-87 MG
+U-87 MG
+U-87 MG
+U-87 MG
+Unclassified
+Unclassified
+Unclassified
+SVts-8
+SVts-8
+iPSC derived neural cells
+SVts-8
+SVts-8
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+CD4+ T cells
+HeLa
+Jurkat
+ES cells
+ES cells
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+NB-4
+NB-4
+NB-4
+Leukemia, Myeloid
+Leukemia, Myeloid
+NB-4
+NB-4
+NB-4
+NB-4
+NB-4
+Leukemia, Myeloid
+Leukemia, Myeloid
+MR4
+MR4
+UPR9
+UPR9
+UPR9
+UPR9
+UPR9
+UPR9
+K-562
+K-562
+K-562
+K-562
+K-562
+Jurkat (Clone E6-1)
+Jurkat (Clone E6-1)
+Jurkat (Clone E6-1)
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+HeLa
+HeLa
+HeLa
+SH-SY5Y
+SH-SY5Y
+T98G
+T98G
+T98G
+T98G
+T98G
+T98G
+HeLa
+HeLa
+Hep G2
+Hep G2
+Hep G2
+MCF-7
+Adipose stromal cell
+Adipose stromal cell
+Adipose stromal cell
+Adipose stromal cell
+Adipose stromal cell
+Adipose stromal cell
+U2OS
+U2OS
+VCaP
+LNCAP
+Erythroblasts
+VCaP
+VCaP
+VCaP
+VCaP
+22Rv1
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+VCaP
+VCaP
+VCaP
+LNCAP
+RWPE-1
+RWPE-1
+Prostate cancer cells
+Prostate cancer cells
+MCF-7
+ES cells
+GIST48
+DFB
+Caco-2
+Caco-2
+Caco-2
+Caco-2
+Caco-2
+Caco-2
+HeLa
+LN-229
+HeLa
+HeLa
+HeLa
+HeLa
+hESC BG03
+hESC H9
+hESC H9
+hESC derived neural cells
+K-562
+K-562
+Hep G2
+Hep G2
+HeLa
+HeLa
+HeLa
+CMK
+K-562
+K-562
+K-562
+K-562
+K-562
+CD34 Hematopoietic stem cells
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+T-ALL
+CD34 Hematopoietic stem cells
+CD4+ T cells
+CD4+ T cells
+JURL-MK1
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+K-562
+K-562
+K-562
+CD34+
+CD36+
+CD36+
+CD36+
+CD36+
+CD36+
+CD36+
+CD34+
+CD36+
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+T-47D
+T-47D
+HeLa
+HeLa
+HeLa
+HeLa
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+THP-1
+THP-1
+THP-1
+THP-1
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+CD34+
+hESC derived neural crests
+hESC derived neural crests
+hESC derived neural crests
+K-562
+K-562
+K-562
+LNCAP
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+CD34+
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+COLO 320
+COLO 320
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+GM12878
+GM12878
+GM12878
+GM12878
+hESC H9
+hESC H9
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+PC-3
+PC-3
+RWPE-1
+RWPE-1
+RWPE-1
+RWPE-1
+RWPE-1
+OCI-LY1
+OCI-LY1
+Th1 Cells
+Th1 Cells
+Th2 Cells
+IB4
+IB4
+IB4
+IB4
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+Monocytes
+Monocytes
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+HeLa
+HeLa
+RAJI
+CA46
+BLUE-1
+BL-41
+RAMOS
+EWS502
+EWS502
+HUVEC
+HUVEC
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+U-937
+U-937
+U-937
+U-937
+U-937
+hESC H9
+hESC H9
+Keratinocytes
+Keratinocytes
+PBMC
+PBMC
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+FB8470
+FB8470
+FB8470
+FB8470
+FB0167P
+FB0167P
+FB0167P
+FB0167P
+D54
+D54
+D54
+D54
+Trophoblast stem cells
+Trophoblast stem cells
+Trophoblast stem cells
+MOLM-13
+MV-4-11
+A-375
+A-375
+A-375
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+CD34 Hematopoietic stem cells
+CD34+
+MDA-MB-231
+MDA-MB-231
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+PC-3
+MSTO-211H
+MSTO-211H
+Hep G2
+Hep G2
+HuH-7
+HuH-7
+Hep G2
+Hep G2
+SK-HEP-1
+SK-HEP-1
+Liver
+Liver
+697
+5637
+5637
+5637
+5637
+HuCCT1
+HuCCT1
+HuCCT1
+HuCCT1
+HuCCT1
+VCaP
+HuCCT1
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+K-562
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+hESC derived neural cells
+hESC derived neural cells
+B cells
+B cells
+B cells
+B cells
+HuCCT1
+HuCCT1
+HuCCT1
+HuCCT1
+HuCCT1
+HuCCT1
+HeLa
+HeLa
+HeLa
+HeLa
+Mammary epithelial cells
+Mammary epithelial cells
+Breast luminal cells
+Breast luminal cells
+Breast luminal cells
+Breast luminal cells
+Breast cancer cell line
+Breast cancer cell line
+Breast cancer cells
+Breast cancer cells
+B cells
+B cells
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Unclassified
+Unclassified
+Unclassified
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+hESC H9
+hESC H9
+Brain organoids
+Brain organoids
+Brain organoids
+Brain organoids
+Neurofibromatosis 2
+Neurofibromatosis 2
+Neurofibromatosis 2
+Neurofibromatosis 2
+K-562
+K-562
+K-562
+K-562
+Acute myeloid leukemia
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+Acute myeloid leukemia
+OCI-AML3
+KG-1
+MV-4-11
+K-562
+K-562
+HCC1954
+HCC1954
+HCC1954
+HCC1954
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+A-673
+A-673
+A-673
+A-673
+293
+293
+Monocytes
+Monocytes
+Monocytes
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+K-562
+K-562
+K-562
+K-562
+K-562
+PANC-1
+PANC-1
+PANC-1
+PANC-1
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+HUDEP-2
+HUDEP-2
+CD4+ T cells
+CD4+ T cells
+ES cells
+Acute myeloid leukemia
+Peripheral blood stem cells
+hTERT RPE-1
+hTERT RPE-1
+U2OS
+U2OS
+U2OS
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Jurkat
+Jurkat
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+HeLa
+HeLa
+Esophageal squamous carcinoma cell line
+Esophageal squamous carcinoma cell line
+KYSE-70
+J82
+J82
+HAP1
+HAP1
+HAP1
+HEPM
+HEPM
+LNCAP
+LNCAP
+LNCAP
+Erythroid Cells
+Erythroid Cells
+Erythroid Cells
+Erythroid Cells
+THP-1
+Hep G2
+HuH-6
+Hep G2
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+Neural crest cells
+hESC H9
+hESC derived neural cells
+THP-1
+Acute lymphoid leukemia
+Acute lymphoid leukemia
+Acute lymphoid leukemia
+Acute lymphoid leukemia
+RS4-11
+RS4-11
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+FaDu
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+293
+293
+293
+293
+MDA-MB-231
+Unclassified
+Unclassified
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+HUVEC
+MCF-7
+MCF-7
+MCF-7
+SGBS
+SGBS
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+THP-1
+THP-1
+Keratinocytes
+Keratinocytes
+SNU-398
+SNU-398
+SNU-398
+SNU-398
+MDA-MB-231
+MDA-MB-231
+IMEC
+IMEC
+NALM-6
+NALM-6
+NALM-6
+NALM-6
+NALM-6
+NALM-6
+NALM-6
+NALM-6
+HCT 116
+HCT 116
+Prostate cancer cells
+Prostate cancer cells
+LNCAP
+LHSAR
+LHSAR
+LHSAR
+LHSAR
+LHSAR
+LHSAR
+K-562
+K-562
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+T-ALL
+T-ALL
+T-ALL
+iPS cells
+iPS cells
+WT 9-12
+Myoblasts
+Myoblasts
+GEN2.2
+C4-2
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+MCF-7
+MDA-MB-231
+HMLE
+HMLE
+LP-1
+VCaP
+VCaP
+VCaP
+VCaP
+DIPG7
+DIPG7
+DIPG7
+DIPG7
+DIPG7
+DIPG7
+DIPG7
+DIPG7
+SU-pcGBM-2
+SU-pcGBM-2
+NTERA-2
+NTERA-2
+NTERA-2
+NTERA2-derived neural stem cells
+NTERA2-derived neural stem cells
+NTERA2-derived neural stem cells
+NTERA2-derived neural stem cells
+NTERA2-derived neural stem cells
+NTERA2-derived neural stem cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+iPSC derived retinal cells
+REH
+REH
+REH
+LNCAP
+LNCAP
+U-87 MG
+U-87 MG
+HGC-27
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+Hep 3B
+Hep 3B
+Hep 3B
+Hep 3B
+Hep 3B
+Hep 3B
+Hep G2
+Hep G2
+Hep G2
+K-562
+REH
+SUP-B15
+DND-41
+HPB-ALL
+K-562
+ALL-SIL
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+K-562
+K-562
+GM12878
+GM12878
+MKN-45
+MKN-45
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+G-401
+G-401
+BT-16
+G-401
+BT-16
+G-401
+BT-16
+G-401
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+NOMO-1
+THP-1
+THP-1
+THP-1
+THP-1
+Decidualized stromal cells
+K-562
+K-562
+K-562
+delta-47
+delta-47
+delta-47
+OVCAR-8
+OVCAR-8
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+NHDF
+HeLa
+HeLa
+MCF-7
+MCF-7
+TF-1
+Muscles
+Muscles
+Muscles
+Muscles
+Muscles
+Muscles
+VCaP
+VCaP
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+HUDEP-1
+OVCAR-3
+OvCA 429
+PEO1
+293
+HUVEC
+NCI-H441
+IMR-90
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+hTERT RPE-1
+hTERT RPE-1
+NB-4
+NB-4
+NB-4
+NB-4
+NB-4
+NB-4
+NB-4
+NB-4
+NB-4
+RAMOS
+RAMOS
+GM12878
+GM12878
+HCT 116
+LoVo
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived gut tube
+hESC derived gut tube
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+Hematopoietic Stem Cells
+A-673
+CHLA-10
+CHLA-25
+EW-1
+EW-22
+EW-24
+EW-3
+EW-7
+MHH-ES-1
+MIC
+POE
+RD-ES
+Rh1
+SK-ES-1
+SK-N-MC
+TC-32
+TC-71
+TC-106
+HT-1376
+HT-1376
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+293
+B cells
+Fibroblasts
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+hESC derived retinal cells
+hESC derived retinal cells
+hESC derived retinal cells
+hESC derived retinal cells
+Epithelial cells
+Epithelial cells
+Epithelial cells
+Epithelial cells
+Epithelial cells
+Epithelial cells
+SMMC-7721
+ZR-75-30
+ZR-75-30
+ZR-75-30
+GSC316
+GSC316
+GSC316
+GSC316
+U-87 MG
+U-87 MG
+U-87 MG
+U-87 MG
+Microglia cell line
+Microglia cell line
+Microglia cell line
+Microglia cell line
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+HT-29
+HT-29
+HT-29
+HT-29
+HT-29
+HT-29
+HT-29
+HT-29
+HT-29
+HT-29
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+DU 145
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+DMS 53
+DMS 53
+DMS 53
+DMS 53
+DMS 53
+DMS 53
+Kasumi-1
+Kasumi-1
+Acute myeloid leukemia
+Acute myeloid leukemia
+NCCIT
+NCCIT
+NCCIT
+NCCIT
+HeLa
+HeLa
+C4-2
+C4-2
+C4-2
+C4-2
+Acute myeloid leukemia
+Acute myeloid leukemia
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+GM12878
+GM12878
+GM12878
+GM12878
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+3AA3
+3AA3
+3AA3
+3AA3
+3AA3
+3AA3
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+Liposarcoma, Myxoid
+iPSC derived astrocytes
+HCT 116
+HCT 116
+Hep G2
+Hep G2
+Bronchial epithelial cells
+KARPAS-422
+iPSC derived neural crests
+iPSC derived neural crests
+iPSC derived neural crests
+iPSC derived neural crests
+iPSC derived neural crests
+BT-549
+MCF10DCIS.com
+MCF10DCIS.com
+MDA-MB-231
+786-O
+786-O
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+BCBL1
+BCBL1
+Sarcoma, Clear Cell
+Sarcoma, Clear Cell
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Keratinocytes
+SU-DHL-5
+SU-DHL-5
+SU-DHL-5
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+G-401
+G-401
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+RPMI 8402
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+Hep G2
+Hep G2
+UiPSM
+UiPSM
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+U2OS
+U2OS
+U2OS
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+Hep G2
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+Hep G2
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+Hep G2
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+LNCAP
+K-562
+K-562
+293
+293
+293
+293
+293
+293
+NB-4
+U-937
+U-937
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+Xenograft
+HPB-ALL
+HPB-ALL
+K-562
+K-562
+K-562
+K-562
+K-562
+RKO
+RKO
+RKO
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+A2780
+A2780
+A2780
+A2780
+A2780
+A2780
+A2780
+A2780
+A2780
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HeLa
+HeLa
+293
+293
+293
+293
+U2OS
+U2OS
+U2OS
+U2OS
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+Neural crest cells
+iPS cells
+iPS cells
+Neural crest cells
+iPS cells
+Neural crest cells
+iPS cells
+Neural crest cells
+iPS cells
+iPS cells
+Neural crest cells
+iPS cells
+iPS cells
+MCF-7
+MCF-7
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+SU-DHL-4
+LoVo
+LoVo
+LoVo
+LoVo
+LoVo
+LoVo
+LoVo
+LoVo
+H29
+H29
+NCI-H82
+NCI-H82
+NCI-H1836
+NCI-H1836
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+hESC derived neuromesodermal cells
+SH-SY5Y
+SH-SY5Y
+Keratinocytes
+Keratinocytes
+Keratinocytes
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Lung adenocarcinoma
+Lung adenocarcinoma
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+Small cell lung cancer
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+B-cell (CD19+)
+B-cell (CD19+)
+B-cell (CD19+)
+293
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+RAMOS
+MCF-7
+MCF-7
+T cells
+T cells
+GBM8
+GBM8
+GBM8
+GBM8
+GBM8
+GBM8
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+LN-229
+LN-229
+LN-229
+LN-229
+LN-229
+LN-229
+GBM8
+GBM8
+GBM8
+GBM8
+GBM8
+GBM8
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+Fetal astrocytes
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+786-O
+SCC-13
+T/C28a2
+T/C28a2
+CD34+
+CD34+
+CD34+
+CD34+
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+IMR-32
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+RL95-2
+RL95-2
+RL95-2
+RL95-2
+RL95-2
+RL95-2
+RL95-2
+RL95-2
+Polycystic kidney
+Polycystic kidney
+NCCIT
+NCCIT
+NCCIT
+NCCIT
+HuH-7
+HuH-7
+HuH-7
+SH-SY5Y
+SH-SY5Y
+SH-SY5Y
+SH-SY5Y
+IMR-90
+IMR-90
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MOLM-13
+MOLM-13
+LX2
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+TF-1
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+M-14
+M-14
+M-14
+M-14
+M-14
+M-14
+M-14
+M-14
+MOLM-13
+MOLM-13
+HCT 116
+HT-29
+COLO 205
+HCT-15
+SW 480
+COLO 320
+LS-180
+COLO 741
+MCF-7
+U-87 MG
+U-87 MG
+MDA-MB-231
+MDA-MB-231
+COR-L311
+COR-L311
+COR-L311
+COR-L311
+NCI-H1048
+NCI-H1048
+NCI-H211
+NCI-H211
+NCI-H211
+NCI-H211
+NCI-H211
+NCI-H211
+NCI-H211
+NCI-H211
+NCI-H526
+NCI-H526
+NCI-H526
+NCI-H526
+MCF-7
+MCF-7
+HMEC
+HMEC
+HCC1954
+HCC1955
+LNCAP
+LNCAP
+MCF-7
+BT-474
+MDA-MB-453
+SK-BR-3
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+293
+293
+ONS-76
+ONS-76
+ONS-76
+P493-6
+P493-6
+P493-6
+U-87 MG
+P493-6
+P493-6
+P493-6
+U-87 MG
+P493-6
+P493-6
+P493-6
+NCI-H2171
+U-87 MG
+NCI-H128
+NCI-H128
+NCI-H2171
+NCI-H2171
+293
+293
+293
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+VCaP
+293
+293
+293
+293
+293
+293
+293
+hESC H9
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+OCI-LY1
+OCI-LY1
+B cells
+B cells
+B cells
+OPM-2
+OPM-2
+OPM-2
+OPM-2
+hESC derived glial cells
+hESC derived glial cells
+GBM
+ES cells
+hESC derived cardiac cells
+hESC derived cardiac cells
+ES cells
+hESC derived cardiac cells
+iPSC derived cardiac cells
+hESC derived cardiac cells
+hESC derived cardiac cells
+JN-DSRCT-1
+JN-DSRCT-1
+JN-DSRCT-1
+JN-DSRCT-1
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+MDAH087
+MDAH087
+Alveolar soft part sarcoma
+MRT TTC549
+MRT TTC549
+MRT TTC549
+MRT TTC549
+MRT TTC549
+MRT TTC549
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Kidney Cortex
+Kidney Cortex
+Kidney Cortex
+Kidney Cortex
+hESC derived neural crests
+iPSC derived hippocampal cells
+iPSC derived hippocampal cells
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+RD
+RD
+hESC derived cardiac cells
+hESC derived cardiac cells
+RAJI
+Mutu
+B cells
+C666-1
+Breast cancer cells
+Breast cancer cells
+Astrocytes
+hESC derived cardiac cells
+Cardiomyocytes
+Cardiomyocytes
+Cardiomyocytes
+ES cells
+ES cells
+ES cells
+hESC derived mesodermal cells
+hESC derived mesodermal cells
+hESC derived cardiac cells
+hESC derived cardiac cells
+hESC derived cardiac cells
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+Unclassified
+293
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+HeLa
+DMS 53
+DMS 53
+DMS 53
+DMS 53
+DMS 53
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+T-47D
+12Z
+12Z
+12Z
+12Z
+293
+293
+293
+293
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+Hep G2
+Hep G2
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+293
+293
+Adipose stem cells
+Adipose stem cells
+Adipose stem cells
+Adipose stem cells
+Adipose stem cells
+Adipose stem cells
+Adipose stem cells
+Adipose stem cells
+AC7
+AC7
+AC7
+AC7
+NCCIT
+NCCIT
+NCCIT
+NCCIT
+NCCIT
+NCCIT
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+Prostate cancer
+Prostate cancer
+Prostate cancer
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+OVCAR-8
+GBM
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+5637
+5637
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+AC16
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+MCF 10A
+MCF 10A
+MCF 10A
+PDAC
+CFPAC-1
+CFPAC-1
+CFPAC-1
+CFPAC-1
+NK-92
+MM.1S
+MM.1S
+U2OS
+U2OS
+U2OS
+U2OS
+hESC H9
+hESC RUES1
+hESC RUES1
+hESC RUES1
+hESC RUES1
+hESC RUES1
+hESC RUES1
+T/C28a2
+Decidualized stromal cells
+Decidualized stromal cells
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+rRenal tubular epithelial cells
+GM12878
+NALM-6
+REH
+Acute myeloid leukemia
+Tumor
+Tumor
+Glioblastoma stem cells
+Kidney organoids
+SUM 159PT
+SUM 159PT
+HCT 116
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+MCF-7
+MCF-7
+293
+293
+293
+293
+MSK-PCa3
+MSK-PCa3
+MSK-PCa3
+MSK-PCa3
+DU 145
+DU 145
+DU 145
+DU 145
+SK-MEL-147
+SK-MEL-147
+SK-MEL-147
+Jurkat
+Jurkat
+Jurkat
+SEM
+SEM
+SEM
+SEM
+SW 480
+SW 480
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+T cells
+T cells
+HMLE
+NAMEC8
+293
+293
+KG-1
+KG-1
+293
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+ES cells
+MCF 10A
+MCF 10A
+SUP-T1
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Endometrial stromal cells
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+HCT 116
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+HeLa
+MCF-7
+MCF-7
+HCT 116
+HCT 116
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+HCT-8
+SW 620
+SW 620
+DLD-1
+DLD-1
+HCT-8
+HCT 116
+HCT 116
+Hep G2
+293
+293
+293
+293
+293
+293
+293
+293
+HeLa
+HeLa
+HeLa
+HeLa
+Th1 Cells
+Th1 Cells
+Th1 Cells
+Th1 Cells
+Th1 Cells
+Th1 Cells
+Th1 Cells
+Th1 Cells
+EBV-B
+EBV-B
+EBV-B
+DND-41
+DND-41
+DND-41
+DND-41
+Jurkat
+MDA-MB-231
+KARPAS-422
+KARPAS-422
+K-562
+K-562
+HUVEC
+IMR-90
+Myoblasts
+Myoblasts
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+SK-MEL-5
+SK-MEL-5
+BT-474
+BT-474
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MDA-MB-436
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+UVSS1
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+TE-5
+SUP-B15
+SUP-B15
+SUP-B15
+SUP-B15
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+THP-1
+Macrophages
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+MDA-MB-231
+MDA-MB-231
+P493-6
+P493-6
+P493-6
+NC797
+NC797
+NC797
+NC797
+NC797
+NC797
+NC797
+NC797
+CAL-1
+GEN2.2
+CAL-1
+CAL-1
+GEN2.2
+GEN2.2
+K-562
+K-562
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+SUNE1
+SUNE1
+A549
+A549
+A549
+A549
+RAJI
+RAJI
+RAJI
+RAJI
+RAJI
+RAJI
+MCF-7
+GBM
+GBM
+RT-112
+RT-112
+UM-UC-3
+UM-UC-3
+HeLa
+Caput epididymis
+Caput epididymis
+hESC H9
+CD4+ T cells
+Mac1
+MOLT-4
+THP-1
+CCRF-CEM
+SUP-T1
+MCF-7
+VCaP
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Lymphoblastoid cells
+Lymphoblastoid cells
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+Chronic myeloid leukemia
+Acute myeloid leukemia
+Myelomonocytic leukemia
+Acute myeloid leukemia
+A-1847
+PBMC
+PBMC
+PBMC
+PBMC
+PBMC
+PBMC
+PBMC
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+ZR-75-30
+ZR-75-30
+ZR-75-30
+ZR-75-30
+ZR-75-30
+ZR-75-30
+Akata
+Akata
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+NCI-H1299
+NCI-H1299
+MCF 10A
+MCF 10A
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+293
+hESC derived endodermal cells
+hESC derived endodermal cells
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+SK-N-SH
+SK-N-SH
+HeLa
+K-562
+K-562
+hTERT RPE-1
+hTERT RPE-1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+P493-6
+P493-6
+MCF 10A
+MCF 10A
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+PrEC
+LNCAP
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+C4-2B
+C4-2B
+U2OS
+U2OS
+501A
+PC-3
+PC-3
+PC-3
+PC-3
+HMEC
+BPE
+HMEC
+BPE
+HMLE
+BPLER
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+NCI-H1703
+NCI-H1703
+ZR-75-1
+ZR-75-1
+SW 620
+SW 620
+MCF-7
+MCF-7
+MCF-7
+HCT-15
+HCT-15
+HT-29
+HT-29
+MCF-7
+MCF-7
+NCI-H441
+NCI-H441
+SK-BR-3
+SK-BR-3
+NCI-H838
+NCI-H838
+BT-20
+BT-20
+BPE
+HMEC
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Colon cancer
+Colon cancer
+Colon cancer
+Colon cancer
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Oral squamous cell carcinoma
+Oral squamous cell carcinoma
+Oral squamous cell carcinoma
+Oral squamous cell carcinoma
+OVCAR-3
+OVCAR-3
+SEM
+SEM
+K-562
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+VCaP
+VCaP
+LNCAP
+LNCAP
+LNCAP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+HAP1
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+293
+293
+293
+293
+293
+293
+293
+B cells
+B cells
+B cells
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+RPE
+ES cells
+ES cells
+ES cells
+Jurkat
+Jurkat
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HUVEC
+HUVEC
+BT 245
+BT 245
+BT 245
+SU-DIPG-IV
+SU-DIPG-IV
+SU-DIPG-IV
+hESC derived neural cells
+hESC derived neural cells
+hESC derived neural cells
+hESC derived neural cells
+293
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MCF-7
+MCF-7
+LTED cells
+LTED cells
+HeLa
+HeLa
+K-562
+293
+HPB-ALL
+HPB-ALL
+RD
+RD
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+LHCN-M2
+FaDu
+FaDu
+FaDu
+FaDu
+NT2-D1
+NT2-D1
+NT2-D1
+NT2-D1
+NT2-D1
+NT2-D1
+TIG-3
+TIG-3
+TIG-3
+TIG-3
+TIG-3
+TIG-3
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+KBM-7
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+Glioblstoma stem cell
+Glioblstoma stem cell
+Glioblstoma stem cell
+Glioblstoma stem cell
+Glioblstoma stem cell
+Glioblstoma stem cell
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+HCT 116
+HCT 116
+LO2
+LO2
+iPSC derived cardiac cells
+hESC derived cardiac cells
+hESC derived cardiac cells
+IMR-5
+IMR-5
+IMR-5
+IMR-5
+Epithelium, Corneal
+PLC/PRF/5
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+C4-2
+C4-2
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+LNCAP
+LNCAP
+A549
+A549
+A549
+A549
+A549
+A549
+A549
+HBL-1
+HBL-1
+HBL-1
+HBL-1
+BJAB
+BJAB
+IMR-90
+IMR-90
+IMR-90
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+IMR-32
+NCI-H358
+Tumor
+Tumor
+BT-474
+BT-474
+SK-BR-3
+SK-BR-3
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+12Z
+12Z
+12Z
+12Z
+FT33
+FT194
+FT194
+KURAMOCHI
+OVSAHO
+JHOS-4
+OCI-LY-3
+OCI-LY-3
+OCI-LY-3
+OCI-LY-3
+Brain
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+U2OS
+hESC H9
+hESC H9
+hESC H9
+HeLa
+HeLa
+LNCAP
+JIH-5
+JIH-5
+JIH-5
+GIST-T1
+GIST-T1
+A-375
+COLO 800
+Anaplastic large cell lymphoma
+Anaplastic large cell lymphoma
+Mac1
+Mac1
+T-47D
+T-47D
+U2OS
+U2OS
+ASPS1
+ASPS1
+ASPS1
+ASPS1
+ASPS1
+ASPS1
+ASPS1
+ASPS1
+ASPS1
+Pre-leukemia stem cells
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Hematopoietic Stem Cells
+Hematopoietic Stem Cells
+Erythroid Cells
+Erythroid Cells
+Rhabdoid Tumor
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+Endometrial Stromal Tumors
+NCI-H3122
+HCC1819
+NCI-H2087
+NCI-H3122
+NCI-H3122
+Macrophages
+Macrophages
+LNCAP
+VCaP
+MDA-MB-468
+MDA-MB-468
+MDA-MB-468
+MDA-MB-468
+MDA-MB-468
+MDA-MB-468
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+ES cells
+ES cells
+hESC derived cardiac cells
+OCI-AML2
+A549
+A549
+A549
+A549
+MUTZ-3
+MUTZ-3
+MUTZ-3
+MUTZ-3
+MUTZ-3
+MUTZ-3
+HeLa
+HeLa
+HeLa
+293
+293
+MCF 10A
+MCF 10A
+SC
+SC
+SC
+SC
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+OCI-LY1
+LNCAP
+LNCAP
+MCF-7
+Th1 Cells
+Th1 Cells
+COLO 829
+COLO 829
+MCF-7-LTED
+NB-4
+Bronchial epithelial cells
+Bronchial epithelial cells
+Bronchial epithelial cells
+Bronchial epithelial cells
+LNCAP
+PNT2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+Salivary Glands
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+MRC-5
+HT
+SU-DHL-6
+HeLa
+HeLa
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+Liver
+Liver
+Liver
+Liver
+Liver
+Liver
+PC-3
+PC-3
+L3.6
+L3.6
+SEM
+ICN13
+RCH-ACV
+ICN12
+B-ALL
+AsPC-1
+Dermal fibroblast
+A-375
+A-375
+A-375
+SK-MEL-147
+SK-MEL-147
+Melanocytes
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+RWPE-1
+RWPE-1
+RWPE-1
+RWPE-1
+RWPE-1
+VCaP
+HCT 116
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+iPSC derived neural cells
+LP-1
+A-375
+A-375
+A-375
+A-375
+Ewing sarcoma
+Ewing sarcoma
+Ewing sarcoma
+Ewing sarcoma
+Ewing sarcoma
+Ewing sarcoma
+B cells
+Microglia
+Microglia
+Microglia
+Microglia
+Microglia
+VCaP
+VCaP
+SEM
+SEM
+SEM
+SEM
+SEM
+SEM
+ML-2
+Caki-2
+Caki-2
+Caki-2
+Caki-2
+Caki-2
+Caki-2
+iPSC derived cardiac cells
+iPSC derived cardiac cells
+HeLa
+HeLa
+HeLa
+NCI-H2171
+NCI-H128
+NCI-H128
+NCI-H2171
+hESC H9
+hESC H9
+hESC H9
+REH
+REH
+CD34+
+THP-1
+THP-1
+THP-1
+CCRF-CEM
+CCRF-CEM
+HEL
+A-375
+MCF-7
+MCF-7
+B cells
+B cells
+B cells
+Epidermal stem cells
+Epidermal stem cells
+Epidermal stem cells
+Epidermal stem cells
+Epidermal stem cells
+Epidermal stem cells
+Memory T cells
+Memory T cells
+Memory T cells
+Mutu
+Mutu
+Mutu
+Mutu
+Mutu
+Mutu
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+293
+SK-N-BE(2)
+Erythroid progenitors
+Erythroid progenitors
+Erythroid progenitors
+Erythroid progenitors
+SGBS
+SGBS
+SGBS
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+HT-1080
+RH-18
+HMLE
+HMLE
+Thymus
+Thymus
+Thymus
+Thymus
+Astrocytes
+Astrocytes
+Astrocytes
+Astrocytes
+hESC derived neural cells
+hESC derived neural cells
+CD4+ T cells
+CD4+ T cells
+BT-549
+BT-549
+BT-549
+BT-549
+BT-549
+BT-549
+HUDEP-2
+HUDEP-1
+HUDEP-1
+A549
+293
+293
+BeWo
+BeWo
+BeWo
+BeWo
+BeWo
+BeWo
+U2OS
+U2OS
+MCF-7
+MCF-7
+MCF-12A
+MCF-12A
+MCF-12A
+MCF-12A
+MCF-12A
+MCF-12A
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Dermal fibroblast
+Dermal fibroblast
+SF8628
+SF8628
+SF8628
+SF8628
+SF8628
+SF8628
+SF8628
+SF8628
+Diffuse intrinsic pontine glioma
+Diffuse intrinsic pontine glioma
+Diffuse intrinsic pontine glioma
+Diffuse intrinsic pontine glioma
+Diffuse intrinsic pontine glioma
+Diffuse intrinsic pontine glioma
+KELLY
+LAN-1
+SK-OV-3
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+MCF-7
+MCF-7
+Jurkat
+Jurkat
+Keratinocytes
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+Breast cancer cells
+Breast cancer cells
+SEM
+NHEK
+NHEK
+SEM
+SEM
+RCH-ACV
+RCH-ACV
+RCH-ACV
+293
+Renal cell carcinoma
+Renal cell carcinoma
+Renal cell carcinoma
+Renal cell carcinoma
+OPM-2
+HCT 116
+HCT 116
+MCF-7
+MCF-7
+SJSA-1
+SJSA-1
+RWPE-1
+RWPE-1
+RWPE-1
+RWPE-1
+Jurkat
+DU 145
+DU 145
+IMR-90
+IMR-90
+IMR-90
+Fetal brain
+293
+293
+293
+Monocytes
+Macrophages
+EP156T
+NOMO-1
+RPMI 8402
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+Monocytes-CD14+
+HeLa
+HeLa
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+hESC derived neural cells
+hESC derived neural cells
+hESC derived neural cells
+hESC derived neural cells
+hESC derived neural cells
+hESC derived neural cells
+HT-1080
+HT-1080
+U-87 MG
+U-87 MG
+BT168
+BT168
+U-87 MG
+U-87 MG
+BT168
+BT168
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+LNCAP
+Retina
+Retina
+Retina
+Retina
+Retina
+Retina
+Retina
+Retina
+Retina
+Retina
+Retina
+293
+293
+Erythroid Cells
+Erythroid Cells
+Erythroid Cells
+Erythroid Cells
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HUVEC
+HUVEC
+HUVEC
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CS1AN
+CAL-1
+CAL-1
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+VCaP
+GSC8
+GSC8
+GSC8
+GSC8
+GSC8
+GSC8
+MIA Paca-2
+RKO
+MIA Paca-2
+MIA Paca-2
+MV-4-11
+MV-4-11
+JHU-029
+HUVEC
+C4-2
+C4-2
+C4-2
+C4-2
+C4-2
+C4-2
+C4-2
+C4-2
+C4-2
+C4-2
+HepaRG
+HepaRG
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Osteoblasts
+HuH-7
+HuH-7
+HuH-7
+Tumor
+Tumor
+SEM
+SEM
+SEM
+SEM
+SEM
+Unclassified
+Unclassified
+Cord blood mononuclear
+Bone marrow mononuclear cells
+ES cells
+ES cells
+ES cells
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+Pre-B cell leukemia
+Pre-B cell leukemia
+Pre-B cell leukemia
+Pre-B cell leukemia
+Pre-B cell leukemia
+Pre-B cell leukemia
+MCF-7
+NCI-H295R
+NCI-H295R
+NCI-H295R
+NCI-H295R
+B cells
+B cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+Large pulmonary artery endothelial cells
+HUVEC
+HUVEC
+HUVEC
+BL-2
+BL-2
+BL-2
+BL-2
+U2OS
+U2OS
+U2OS
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+293
+Macrophages
+Macrophages
+BJ
+BJ
+BJ
+BJ
+Hep G2
+Ker-CT
+Ker-CT
+hESC derived endodermal cells
+A549
+A549
+BJ
+BJ
+BJ
+BJ
+CD4+ T cells
+CD4+ T cells
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+U2OS
+U2OS
+SK-N-SH
+SK-N-SH
+SK-N-SH
+SK-N-SH
+SK-N-SH
+SK-N-SH
+CUTLL1
+CUTLL1
+Fetal prostate fibroblasts
+Prostate cancer-associated fibroblasts
+Myofibroblasts
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+Detroit 562
+293
+VCaP
+VCaP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+SW 1783
+SW 1783
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+D283 Med
+D283 Med
+D283 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D341 Med
+D283 Med
+D283 Med
+D283 Med
+D283 Med
+D283 Med
+MKN-28
+SNU-216
+Primary endothelial cells
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HeLa
+HeLa
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+MCF-7
+MDA-MB-231
+SH-SY5Y
+A549
+HeLa
+HeLa
+HeLa
+HeLa
+LNCAP
+LNCAP
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+CD34+
+NALM-6
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+MDA-MB-453
+LNCAP
+LNCAP
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HCT 116
+HCT 116
+PANC-1
+PANC-1
+MCF-7
+MCF-7
+Jurkat
+Jurkat
+293
+T-47D
+MCF 10A
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+Carcinoma, Endometrioid
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+A-673
+A-673
+SK-N-MC
+SK-N-MC
+SK-N-MC
+SK-N-MC
+SK-N-MC
+RAJI
+RAJI
+RAJI
+RAJI
+Daoy
+Fibrosarcoma
+Fibrosarcoma
+Fibrosarcoma
+Fibrosarcoma
+Fibrosarcoma
+Fibrosarcoma
+HCT 116
+HCT 116
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+SK-MEL-147
+SK-MEL-147
+SK-MEL-147
+SK-MEL-147
+SK-MEL-147
+Prostate cancer cells
+LNCAP
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+VCaP
+VCaP
+Prostate cancer cells
+Prostate cancer cells
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+KK1
+ST1
+ST1
+KK1
+ST1
+KK1
+ST1
+KK1
+KK1
+ST1
+ST1
+KK1
+HBMEC
+HBMEC
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+LNCAP
+LNCAP
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+HAP1
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+BCSC1
+BCSC1
+NHEK
+NHEK
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+RWPE-1
+RWPE-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+HeLa
+HeLa
+HeLa
+HeLa
+HCC827
+HCC827
+HASM2
+HASM2
+HASM2
+HASM2
+A-1847
+A-1847
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Jurkat
+GIST-T1
+GIST-T1
+R1-AD1
+R1-AD1
+R1-AD1
+R1-D567
+R1-D567
+MM.1S
+MM.1S
+MM.1S
+MM.1S
+MM.1S
+MM.1S
+Melanoma
+Melanoma
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+U2OS
+SH-SY5Y
+SH-SY5Y
+HMLE
+HMLE
+HMLE
+HMLE
+hESC derived mesendodermal cells
+hESC derived mesendodermal cells
+hESC HUES64
+hESC HUES64
+hESC HUES64
+hESC HUES64
+hESC HUES64
+iPS cells
+Cardiac progenitor cells
+Endothelial Cells
+iPS cells
+Fibroblasts
+iPS cells
+BT-549
+BT-549
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+WI-38
+WI-38
+WI-38
+WI-38
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+hES BG01V
+OCI-LY-7
+Farage
+SU-DHL-5
+OCI-LY1
+SU-DHL-6
+WSU-DLCL2
+Pfeiffer
+Jurkat
+22Rv1
+22Rv1
+PC-3
+PC-3
+PC-3
+PC-3
+Lung cancer cell line
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+LNCAP
+LNCAP
+LNCAP
+REC-1
+REC-1
+SP-49
+SP-49
+HAEC
+HAEC
+HAEC
+HAEC
+HCT 116
+C4-2
+C4-2
+MCF 10A
+U-251 MG
+Adenoid cystic carcinoma
+Adenoid cystic carcinoma
+Adenoid cystic carcinoma
+Adenoid cystic carcinoma
+GM12878
+GM12878
+293
+293
+293
+293
+293
+293
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+D283 Med
+KYSE-70
+KYSE-70
+T.T
+T.T
+HCC95
+HCC95
+hESC H9
+293
+293
+Dombi23
+DLD-1
+Lymphoblastoid cells
+Lymphoblastoid cells
+Lymphoblastoid cells
+Lymphoblastoid cells
+PrEC
+PrEC
+LNCAP
+LNCAP
+MCF-7
+MCF-7
+Mutu
+Mutu
+Mutu
+Mutu
+Akata
+Akata
+Akata
+Akata
+Akata
+Akata
+Akata
+Akata
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+Pre-B cell leukemia
+Burkitt Lymphoma
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+LNCAP
+LNCAP
+LNCAP
+K-562
+K-562
+K-562
+K-562
+K-562
+MNNG
+MNNG
+143B
+143B
+MG-63
+MG-63
+MG-63
+MG-63
+HOS
+HOS
+HCT 116
+HCT 116
+BT-474
+BT-474
+BT-474
+BT-474
+BEL-7402
+BEL-7402
+BEL-7402
+BEL-7402
+BEL-7402
+BEL-7402
+Lu-130
+hESC HUES8
+hESC HUES8
+hESC HUES8
+293
+293
+293
+293
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+U-937
+MIA Paca-2
+iTreg
+iTreg
+HCT 116
+CLB-Ga
+CLB-Ga
+CLB-Ga
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF 10A
+MCF 10A
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+J-Lat A72
+MCF-7
+LOX-IMVI
+UO-31
+A498
+U2OS
+SK-MEL-5
+Malme-3
+NCI-H460
+A549
+HCT 116
+UACC-62
+UACC-257
+MCF-7
+UACC-257
+Unclassified
+Chondrocytes
+Chondrocytes
+MDA-MB-231
+MDA-MB-231
+Hep G2
+Hep G2
+HepaRG
+IMR-90
+IMR-90
+IMR-90
+HCT 116
+HCT 116
+MOLM-13
+MOLM-13
+MOLM-13
+Testis
+Testis
+hESC H1
+hESC H1
+Testis
+Testis
+Ishikawa
+Ishikawa
+Ishikawa
+Ishikawa
+Ishikawa
+Ishikawa
+HEC-1-A
+HEC-1-A
+HEC-1-A
+Renal tubular cells
+Renal tubular cells
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+IMR-90
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+HEYA8
+OVCAR-8
+HMEC
+HMEC
+HMEC
+HMEC
+Renal cell carcinoma
+Renal cell carcinoma
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+HCT 116
+HCT 116
+U-266
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+B cells
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Melanoma cell line
+Melanoma cell line
+Erythroblasts
+Erythroblasts
+A549
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+SKH1
+SKH1
+SKH1
+SKH1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Keratinocytes
+REH
+SW 480
+SW 480
+786-O
+786-O
+786-O
+293
+MCF-7
+MCF-7
+HeLa
+HeLa
+HeLa
+HeLa
+NCI-H358
+NCI-H358
+AGS
+AGS
+AGS
+AGS
+SNU-398
+OCI-LY1
+OCI-LY1
+OCI-LY1
+OCI-LY1
+K-562
+Kasumi-1
+IMR-5
+IMR-5
+LNCAP
+LNCAP
+LREX
+LREX
+HUDEP-2
+HUDEP-2
+K-562
+K-562
+K-562
+K-562
+HUDEP-2
+HUDEP-2
+U2OS
+U2OS
+U2OS
+U2OS
+293
+293
+MDA-MB-231
+CD34+ cells
+Head and neck squamous cell carcinoma 
+Head and neck squamous cell carcinoma 
+Head and neck squamous cell carcinoma 
+hESC HUES64
+hESC HUES64
+hESC HUES64
+hESC HUES64
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+U2OS
+U2OS
+Dermal fibroblast
+Keratinocytes
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+RMG-I
+RMG-I
+Macrophages
+Macrophages
+Macrophages
+hESC HUES6
+hESC derived neural cells
+hESC derived neural cells
+IMR-90
+IMR-90
+NCI-H295R
+NCI-H295R
+MCF-7
+MCF-7
+MDA-MB-231
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+RT-112
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+hESC derived pancreatic cells
+iPS cells
+iPS cells
+MM.1S
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+C49R
+C49R
+C70R
+C70R
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+C49R
+C70R
+FULR
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+TAMR
+C70R
+C70R
+FULR
+FULR
+MCF-7
+MCF-7
+TAMR
+TAMR
+FULR
+FULR
+FULR
+FULR
+FULR
+FULR
+FULR
+FULR
+MCF-7
+MCF-7
+C70R
+C70R
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+LS-174T
+LS-174T
+LS-174T
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+T-47D
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+ReN-VM
+ReN-VM
+CD4+ T cells
+293
+293
+293
+293
+293
+293
+293
+293
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+HL-60
+Monocytes
+HUVEC
+HUVEC
+TE-5
+TE-5
+Foreskin
+Foreskin
+SK-MEL-147
+SK-MEL-147
+SK-MEL-147
+GIST48
+GIST-T1
+GIST-T1
+MDA PCa 2b
+GIST48
+GIST48
+GIST48
+GIST48
+GIST48
+GIST48
+TMD8
+TMD8
+OCI-LY-10
+OCI-LY-10
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+Fibroblasts
+Fibroblasts
+SW 480
+SW 620
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+K-562
+293
+Myoblasts
+Myotube
+Rhabdomyosarcoma
+K-562
+Dermal fibroblast
+293
+293
+Hep G2
+Hep G2
+SH-SY5Y
+SH-SY5Y
+293
+293
+293
+293
+293
+293
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+iPS cells
+iPS cells
+iPSC derived cells
+iPSC derived cells
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+B cells
+B cells
+JMSU1
+JMSU1
+JMSU1
+JMSU1
+JMSU1
+JMSU1
+Pre-B cells
+Pre-B cells
+Pre-B cells
+Pre-B cells
+Pre-B cells
+Pre-B cells
+OCI-LY1
+OCI-LY1
+OCI-LY1
+OCI-LY1
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+NY8
+NY8
+NY15
+NY15
+hESC HUES64
+hESC HUES64
+hESC HUES64
+hESC HUES64
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+U2OS
+U2OS
+U2OS
+U2OS
+A549
+A549
+A549
+A549
+A549
+A549
+HeLa
+HeLa
+Fibroblasts
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+HeLa
+P493-6
+P493-6
+P493-6
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Bone marrow nuclear cells
+Bone marrow nuclear cells
+Bone marrow nuclear cells
+Peripheral blood mononuclear cells
+NCI-H1299
+NCI-H1299
+iPSC derived hematopoietic cells
+iPSC derived hematopoietic cells
+Hematopoietic Stem Cells
+iPSC derived hematopoietic cells
+iPSC derived hematopoietic cells
+iPSC derived hematopoietic cells
+GM10847
+GM10847
+GM10847
+GM10847
+GM10847
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+GM12891
+GM12891
+GM12891
+GM12891
+GM12892
+GM12892
+GM12892
+GM12892
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+GM18505
+GM18505
+GM18505
+GM18505
+GM18526
+GM18526
+GM18526
+GM18526
+GM18951
+GM18951
+GM18951
+GM18951
+GM19099
+GM19099
+GM19099
+GM19099
+GM19193
+GM19193
+GM19193
+GM19193
+GM19238
+GM19238
+GM19238
+GM19238
+GM19239
+GM19239
+GM19239
+GM19239
+GM19240
+GM19240
+GM19240
+GM19240
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+MS1
+MS1
+MS1
+MS1
+MS1
+MS1
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPS cells
+iPS cells
+iPSC derived neural cells
+iPSC derived neural cells
+iPSC derived neural crests
+iPSC derived neural crests
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+Epididymis
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+B-CLL cells
+MOLM-13
+293
+293
+293
+293
+293
+293
+293
+293
+NCI-H1299
+NCI-H1299
+NCI-H1299
+NCI-H1299
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HUVEC
+HUVEC
+HUVEC
+HUVEC
+HCT 116
+HCT 116
+Saos-2
+MCF-7
+T-47D
+MCF-7
+T-47D
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+SCC-25
+SCC-25
+SCC-25
+ALL xenograft
+ALL xenograft
+ALL xenograft
+ALL xenograft
+ALL xenograft
+ALL xenograft
+ALL xenograft
+ALL xenograft
+Renal cell carcinoma
+Renal cell carcinoma
+Renal cell carcinoma
+HeLa
+HeLa
+HeLa
+HeLa
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+BJ
+Natural Killer T-Cells
+Natural Killer T-Cells
+SHI-1
+LREX
+LREX
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+T cells
+293
+293
+293
+293
+293
+HeLa
+HeLa
+LN-229
+LN-229
+293
+293
+HeLa
+HeLa
+YCC-3
+YCC-3
+YCC-3
+AGS
+AGS
+AGS
+KATO III
+KATO III
+KATO III
+TOV-21G
+TOV-21G
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+B cells
+B cells
+DLBCL
+DLBCL
+DLBCL
+DLBCL
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+Tumour tissues
+MCF-7
+MCF-7
+MCF-7
+ZR-75-1
+ZR-75-1
+T-47D
+T-47D
+BT-474
+BT-474
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Endometrial stromal cells
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Foreskin
+Foreskin
+Mammary glands
+Mammary glands
+Mammary glands
+Mammary glands
+293
+293
+293
+293
+293
+293
+293
+293
+GRANTA-519
+GRANTA-519
+NCI-H1299
+NCI-H1299
+NCI-H1299
+NCI-H1299
+LPS141
+LPS141
+LPS141
+LPS141
+LPS141
+402-91
+HeLa
+HeLa
+HeLa
+K-562
+K-562
+K-562
+K-562
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+Erythroblasts
+Erythroblasts
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+CD34 Hematopoietic stem cells
+Glioblastoma
+Glioblastoma
+Glioblastoma
+Glioblastoma
+BCBL1
+BCBL1
+TIVE-LTC
+TIVE-LTC
+TIVE-LTC
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+KB
+KB
+KB
+KB
+RAJI
+RAJI
+U2OS
+U2OS
+B cells
+B cells
+Erythroblasts
+Erythroblasts
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+Melanocytes
+Melanocytes
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+A549
+A549
+MCF-7
+MCF-7
+T98G
+HeLa
+HeLa
+MDA-MB-231
+MDA-MB-231
+T-47D
+Hs 578T
+Aortic smooth muscle cells
+Aortic smooth muscle cells
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+A549
+A549
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Keratinocytes
+Keratinocytes
+Colorectal cancer organoid
+Colorectal cancer organoid
+Colorectal cancer organoid
+Colorectal cancer organoid
+Colorectal cancer organoid
+NCI-H2171
+NCI-H2171
+SW 1271
+SW 1271
+NCI-H2171
+NCI-H2171
+SW 1271
+SW 1271
+NCI-H2171
+NCI-H2171
+SW 1271
+SW 1271
+SW 1271
+SW 1271
+HeLa
+HeLa
+THP-1
+THP-1
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+SNU-398
+NAMALWA
+T-47D
+Unclassified
+MCF-7
+MCF-7
+BT-549
+BT-549
+K-562
+K-562
+AGS
+MKN-74
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+Monocytes
+Macrophages
+Monocytes
+Macrophages
+Monocytes
+Monocytes
+Primary endothelial cells
+Primary endothelial cells
+PBMC
+PBMC
+PBMC
+T cells
+Gastrointestinal Stromal Tumors
+Gastrointestinal Stromal Tumors
+Gastrointestinal Stromal Tumors
+T-47D
+T-47D
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+293
+293
+293
+293
+293
+293
+293
+Breast cells
+Breast cells
+Breast cells
+Breast cells
+Breast cells
+Hs 68
+Hs 68
+Hs 68
+Hs 68
+Hs 68
+Hs 68
+Hs 68
+MCF-7
+MCF-7
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+DLD-1
+Jurkat
+RWPE-1
+RWPE-1
+Monocytes
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+MCF-7
+MCF-7
+Breast organoids
+Breast organoids
+Breast organoids
+Breast organoids
+Breast organoids
+Breast organoids
+Breast organoids
+Breast organoids
+MCF 10A
+T-47D
+T-47D
+293
+293
+TT
+Erythroblasts
+Erythroblasts
+Erythroblasts
+Erythroblasts
+Erythroblasts
+Erythroblasts
+Erythroblasts
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+RKO
+RKO
+T-47D
+T-47D
+hESC derived retinal cells
+hESC derived retinal cells
+hESC derived retinal cells
+hESC derived retinal cells
+hESC derived retinal cells
+hESC derived retinal cells
+SUM 159PT
+SUM 159PT
+Unclassified
+Unclassified
+HCT 116
+HCT 116
+U2OS
+U2OS
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Endometrium cancer
+Endometrium cancer
+Endometrium cancer
+Endometrium cancer
+Endometrium cancer
+Endometrium cancer
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+Prostate cancer cells
+B cells
+B cells
+293
+293
+293
+293
+293
+293
+293
+293
+293
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+MOLM-13
+MOLM-13
+MOLM-13
+MOLM-13
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+HCASMC
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+MV-4-11
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+iPS cells
+Neurons
+Neural progenitor cells
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+BxPC-3
+SUIT-2
+MCF-7
+MCF-7
+NALM-6
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+MCF 10A
+Unclassified
+SK-N-SH
+SK-N-SH
+293
+293
+293
+293
+293
+KYSE-150
+KYSE-150
+SK-OV-3
+SK-OV-3
+SK-OV-3
+SK-OV-3
+SK-OV-3
+SK-OV-3
+SK-OV-3
+SK-OV-3
+LY2
+LY2
+Unclassified
+PC-3
+PC-3
+iPS cells
+MCF-7
+MCF-7
+Anterior temporal cortex
+Anterior temporal cortex
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+293
+293
+293
+Myoblasts
+Myotube
+Myoblasts
+Myotube
+Myoblasts
+Myotube
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+Unclassified
+hESC H9
+hESC H9
+SH-EP
+SH-EP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Kasumi-1
+Kasumi-1
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+SCCOHT-1
+SCCOHT-1
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+CD34+
+CD34+
+Podocytes
+MDA-MB-435
+MDA-MB-435
+MDA-MB-435
+hESC derived mesendodermal cells
+MDA-MB-435
+TTC-1240
+TTC-1240
+TTC-1240
+TTC-1240
+TTC-1240
+TTC-1240
+TTC-1240
+Aska
+Aska
+MOLM-13
+T HESCs
+T HESCs
+T HESCs
+T HESCs
+THP-1
+hESC H9
+hESC H9
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+SU-DHL-4
+SU-DHL-4
+Glioblastoma
+LNCAP
+LNCAP
+K-562
+K-562
+K-562
+K-562
+Foreskin
+Foreskin
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+A549
+A549
+A549
+PANC-1
+PANC-1
+PANC-1
+CFPAC-1
+CFPAC-1
+CFPAC-1
+CFPAC-1
+CFPAC-1
+CFPAC-1
+SK-N-FI
+SK-N-MM
+SK-N-MM
+CHLA-90
+CHLA-90
+A-673
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Adipose stromal cell
+Adipose stromal cell
+MOLM-13
+MOLM-13
+MOLM-13
+U-937
+U-937
+U-937
+U-937
+U-937
+Jurkat
+Jurkat
+C4-2
+C4-2
+LNCAP
+LNCAP
+MCF-7
+MCF-7
+MCF-7
+Macrophages
+Macrophages
+CAL-1
+HMLE
+HMLE
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Pre-B cells
+Aneurysm smooth muscle cells
+Aneurysm smooth muscle cells
+Smooth muscle cells
+Smooth muscle cells
+Aneurysm smooth muscle cells
+Aneurysm smooth muscle cells
+EA.hy926
+EA.hy926
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+LNCAP
+LNCAP
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+GM12878
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Chronic myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Acute myeloid leukemia
+Adipose Tissue
+Adipose Tissue
+Adipose Tissue
+Adipose Tissue
+Adipose Tissue
+Fibroblasts
+Fibroblasts
+Fibroblasts
+Fibroblasts
+MCF-7
+SUM 149PT
+SUM 159PT
+MCF-7
+MCF-7
+SUM 149PT
+SUM 149PT
+MCF-7
+MCF-7
+SUM 149PT
+SUM 149PT
+SUM 159PT
+SUM 159PT
+MCF-7
+MCF-7
+MCF 10A
+293
+293
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+K-562
+HeLa
+K-562
+K-562
+K-562
+K-562
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Kasumi-1
+Hs 746.T
+YCC-11
+Endometrium
+Endometrium
+Endometrium
+Endometrium
+HeLa
+HeLa
+HeLa
+HeLa
+Hep G2
+Hep G2
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+Muscle, Smooth
+293
+Muscle, Smooth
+293
+ES cells
+ES cells
+BEAS-2B
+BEAS-2B
+U-2932
+U-2932
+Keratinocytes
+Keratinocytes
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+CD4+ T cells
+A549
+A549
+293
+293
+293
+HL-60
+PBMC
+PBMC
+VCaP
+VCaP
+VCaP
+VCaP
+Neural progenitor cells
+Neural progenitor cells
+Neural progenitor cells
+Prostate
+Prostate cancer
+Prostate
+Prostate cancer
+Prostate
+Prostate cancer
+Prostate
+Prostate
+Prostate cancer
+Prostate cancer
+Prostate
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+402-91
+SK-HEP-1
+IMR-90
+IMR-90
+IMR-90
+IMR-90
+iSLK
+iSLK
+LEC
+LEC
+BEC
+BJAB
+Neural progenitor cells
+Neural progenitor cells
+Neural progenitor cells
+T-47D
+MCF-7
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+U2OS
+U2OS
+U2OS
+U2OS
+Jurkat
+Jurkat
+Jurkat
+Jurkat
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+BIN-67
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Endometrial stromal cells
+OCI-LY-10
+OCI-LY-10
+TMD8
+TMD8
+TMD8
+B cells
+B cells
+K-562
+K-562
+HCT 116
+HCT 116
+HCT 116
+Dermal fibroblast
+Dermal fibroblast
+Dermal fibroblast
+iPS cells
+iPS cells
+iPS cells
+Dermal fibroblast
+Dermal fibroblast
+22Rv1
+22Rv1
+22Rv1
+22Rv1
+Dombi23
+Keratinocytes
+Keratinocytes
+BCBL1
+BCBL1
+Dermal fibroblast
+Dermal fibroblast
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+293
+HCASMC
+HCASMC
+HCASMC
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+Cytotrophoblast
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+Erythroid progenitors
+Erythroid progenitors
+Erythroid Precursor Cells
+Erythroid Precursor Cells
+MDA-MB-231
+MCF-7
+MCF-7
+MCF-7
+MCF 10A
+MCF 10A
+MCF 10A
+MCF-7
+MCF 10A
+AsPC-1
+SW 1990
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Hematopoietic Stem Cells
+OCI-LY-3
+OCI-LY-3
+OCI-LY-3
+OCI-LY-10
+OCI-LY-10
+OCI-LY-10
+NCI-H929
+NCI-H929
+OCI-LY-3
+OCI-LY-3
+OCI-LY-3
+OCI-LY-3
+PrEC
+PrEC
+MDA-MB-231
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mel270
+Mel270
+Mel270
+Mel270
+Mel270
+Mel270
+Mel270
+Mel270
+Mel270
+Mel270
+HCC1937
+HCC1806
+UACC-812
+UACC-812
+Hep G2
+Hep G2
+iPSC derived neural cells
+HeLa
+HeLa
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+Mesenchymal stem cells
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+HK-2
+HK-2
+HK-2
+HK-2
+VCaP
+VCaP
+VCaP
+VCaP
+MEG-01
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+HeLa
+HeLa
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+BEAS-2B
+Erythroid Cells
+Erythroid Cells
+Erythroid Cells
+iPSC derived pancreatic cells
+iPSC derived pancreatic cells
+Hepatocytes
+Hepatocytes
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+T-47D
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+Breast cancer cells
+697
+697
+697
+697
+SMS-CTR
+SMS-CTR
+K-562
+Neural Stem Cells
+Neural Stem Cells
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+A-375
+A-375
+A-375
+A-375
+Dermal fibroblast
+Dermal fibroblast
+Dermal fibroblast
+Dermal fibroblast
+Dermal fibroblast
+Dermal fibroblast
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+Acute promyelocytic leukemia
+Acute promyelocytic leukemia
+Acute promyelocytic leukemia
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+Neutrophils
+MKL-1
+MKL-1
+PC-3
+PC-3
+P493-6
+P493-6
+Colorectal adenocarcinoma
+Colorectal adenocarcinoma
+Colorectal adenocarcinoma
+Colorectal adenocarcinoma
+OCI-LY1
+hESC derived neural cells
+hESC derived neural cells
+MCF-7
+A-375
+A-375
+A-375
+A-375
+A-375
+A-375
+293
+293
+293
+293
+293
+293
+293
+293
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+THP-1
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Myometrium
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+Uterin leiomyoma
+K-562
+K-562
+K-562
+K-562
+KhES-3
+MCF-7
+SUM 149PT
+SUM 159PT
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+Hep G2
+A2780
+A2780
+A2780
+A2780
+A2780
+A2780
+U2OS
+U2OS
+U2OS
+Jurkat
+Jurkat
+CUTLL1
+CUTLL1
+CUTLL1
+CUTLL1
+T-ALL
+T-ALL
+T-ALL
+T-ALL
+Jurkat
+Jurkat
+HeLa
+HeLa
+HeLa
+Acute myeloid leukemia
+Acute myeloid leukemia
+ES cells
+ES cells
+ES cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+hESC derived endodermal cells
+K-562
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+HCT 116
+Dermal fibroblast
+Dermal fibroblast
+Dermal fibroblast
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+U2OS
+U2OS
+U2OS
+U2OS
+HeLa
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+hESC H1
+ESO-26
+ESO-26
+ESO-26
+BC-3
+BC-3
+BC-3
+BC-3
+BC-3
+BC-3
+BC-3
+BC-3
+BC-3
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+NTERA-2
+Dendritic Cells
+Dendritic Cells
+Hep G2
+PC-3
+PC-3
+PC-3
+PC-3
+DU 145
+DU 145
+DU 145
+DU 145
+DU 145
+PANC-1
+LS-174T
+LS-174T
+ICN12
+ICN12
+ICN12
+ICN12
+RS 411
+Glioma stem cells
+Glioma stem cells
+Glioma stem cells
+Glioma stem cells
+Neural Stem Cells
+Neural Stem Cells
+Neural Stem Cells
+Neural Stem Cells
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+K-562
+K-562
+BC-3
+HUVEC
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+hES BG01V
+Melanoma
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+NHDF
+Melanoma
+Melanoma
+U-937
+U-937
+MKPL-1
+MKPL-1
+hESC H9
+hESC H9
+hESC H9
+hESC H9
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+293
+OCI-LY1
+OCI-LY1
+CD4+ T cells
+293
+Hepatocellular carcinoma
+Hepatocellular carcinoma
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+hESC H9
+Erythroid Cells
+U2OS
+U2OS
+Glioblastoma
+GSC23
+MDA-MB-231
+MDA-MB-231
+Mammary epithelial cells
+Mammary epithelial cells
+Mammary epithelial cells
+Mammary epithelial cells
+Mammary epithelial cells
+293
+293
+SW 480
+SW 480
+SW 480
+K-562
+K-562
+SKMNC
+SKMNC
+A-673
+A-673
+L1207
+Endometrial stromal cells
+MCF-7
+MCF-7
+Coronary artery smooth muscle
+HeLa
+HeLa
+ALL-SIL
+CC-LP-1
+CC-LP-1
+CC-LP-1
+CC-LP-1
+NCI-H69
+NCI-H69
+NCI-H69
+T-47D
+PLC/PRF/5
+PLC/PRF/5
+Hermes 3C
+Hermes 3C
+Hermes 3C
+Hermes 3C
+293
+293
+293
+K-562
+K-562
+K-562
+K-562
+MDA-MB-231
+CUTLL1
+CUTLL1
+Plasmablasts
+Memory B cells
+Memory B cells
+U-937
+U-937
+U-937
+A549
+A549
+A549
+KYSE-140
+KYSE-140
+CAL 27
+iPS cells
+iPS cells
+iPS cells
+iPS cells
+A2780
+A2780
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+LNCAP
+BJAB
+HBL-1
+HT
+OCI-LY8
+OCI-LY-10
+OCI-LY-19
+TMD8
+MCF-7
+AGS
+HGC-27
+AGS
+AGS
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+293
+HEL
+Monocytes
+Monocytes
+Dendritic Cells
+Dendritic Cells
+Dendritic Cells
+Dendritic Cells
+CFPAC-1
+CFPAC-1
+HPAF-II
+HPAF-II
+CFPAC-1
+CFPAC-1
+GM12878
+GM12878
+GM12878
+GM12878
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+hTERT RPE-1
+hTERT RPE-1
+hTERT RPE-1
+MCF-7
+MCF-7
+MCF-7
+MCF-7
+hESC derived pancreatic cells
+U-2932
+K-562
+K-562
+K-562
+293
+293
+293
+Monocytes
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+CD34+
+Monocytes
+Monocytes
+Th2 Cells
+Th2 Cells
+Th2 Cells
+Th2 Cells
+Th2 Cells
+Th2 Cells
+Th2 Cells
+Th2 Cells
+Unclassified
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Lymphoblastoid cell line
+Hep G2
+Hep G2
+Hep G2
+Gastric cancer cells
+Gastric cancer cells
+Gastric cancer cells
+SGBS
+SGBS
+SGBS
+SGBS
+SGBS
+SGBS
+SGBS
+SGBS
+ES cells
+ES cells
+A-375
+A-375
+A-375
+A-375
+A-375
+A-375
+A-375
+A-375
+HCT 116
+SW 480
+HT-29
+HT-29
+HT-29
+HT-29
+MCF-7
+MCF-7
+MCF-7
+SW 480
+SW 480
+SW 480
+LNCAP
+LNCAP
+HeLa
+HeLa
+Jurkat
+Acute myeloid leukemia
+hESC derived cardiac cells
+hESC derived cardiac cells
+JN-DSRCT-1
+Unclassified
+JN-DSRCT-1
+JN-DSRCT-1
+SEM
+Bone Marrow Cells
+Bone Marrow Cells
+Pancreatic islets
+KARPAS-299
+KARPAS-299
+HeLa
+HeLa
+B cells
+B cells
+HeLa
+Het-1A
+EC109
+U-937
+MCF-7
+MCF-7
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+RH-30
+A-673
+A-673
+A-673
+A-673
+A-673
+A-673
+Kasumi-1
+Kasumi-1
+Kasumi-1
+MOLM-1
+SW 480
+HeLa
+RAJI
+RAJI
+RAJI
+RAJI
+RAJI
+Epidermal cells
+BJ
+BJ
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Keratinocytes
+Acute myeloid leukemia
+Tumor
+Tumor
+Tumor
+Tumor
+Tumor
+Tumor
+Tumor
+Tumor
+DLBCL
+DLBCL
+DLBCL
+KYSE-180
+KYSE-180
+KYSE-180
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+293
+293
+HCT 116
+MDA-MB-231
+MDA-MB-231
+JN-DSRCT-1
+JN-DSRCT-1
+JN-DSRCT-1
+Unclassified
+Unclassified
+Unclassified
+Unclassified
+A-673
+A-673
+A-673
+TM5
+TM5
+OVCAR-8
+MOLM-13
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+VCaP
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+HUDEP-2
+iPSC derived neural cells
+MOLM-13
+Melanoma cell line
+Melanoma cell line
+Melanoma cell line
+hTERT RPE-1
+hTERT RPE-1
+Bronchial epithelial cells
+Bronchial epithelial cells
+Liver
+293
+293
+293
+293
+293
+293
+Macrophages
+VCaP
+Acute myeloid leukemia
+Fujioka
+Fujioka
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Glioma
+Hep G2
+IMR-90
+IMR-90
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+HeLa
+U-937
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+Prostate cancer
+IMR-32
+IMR-32
+ASPS
+ASPS
+ASPS
+FU-UR-1
+FU-UR-1
+FU-UR-1
+FU-UR-1
+FU-UR-1
+FU-UR-1
+ASPS1
+ASPS1
+ASPS1
+HeLa
+HeLa
+ASPS1
+ASPS1
+ASPS1
+Th17 Cells
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+K-562
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+iPSC derived hepatocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+Adipocytes
+PANC-1
+PANC-1
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+MDA-MB-231
+THP-1
+MM.1S
+MM.1S
+A549
+NCI-H2126
+NCI-H1437
+LNCAP
+Keratinocytes
+K-562
+SH-EP
+SH-EP
+SH-EP
+SH-EP
+Unclassified
+Unclassified
+K-562
+K-562
+K-562
+K-562
+K-562
+CD4+ T cells
+CD8+ T cells
+CD8+ T cells
+Unclassified
+Unclassified
+Monocytes
+Monocytes
+CD4+ T cells
+K-562
+K-562
+K-562
+WT 9-12
+293
+293
+hESC H9
+hESC H9
